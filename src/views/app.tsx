@@ -1,29 +1,20 @@
 import React, { Component } from 'react';
-import { Switch, Route } from "react-router-dom";
 import Home from './home';
-import NoMatch from './no_match';
-import ReactGA from 'react-ga';
+import { Provider } from 'react-redux';
+import store, { history } from '../store';
+import { ConnectedRouter } from 'connected-react-router';
 
 class App extends Component {
-    setGA = () => {
-        ReactGA.initialize('UA-110182129-1');
-        ReactGA.pageview('Init page view');
-    };
-    
-    componentDidMount() {
-        this.setGA();
-    };
+
+    componentDidMount() {};
 
     render() {
         return (
-            <Switch>
-                <Route exact path="/">
+            <Provider store={store}>
+                <ConnectedRouter history={history}>
                     <Home />
-                </Route>
-                <Route path="*">
-                    <NoMatch />
-                </Route>
-            </Switch>
+                </ConnectedRouter>
+            </Provider>
         )
     }
 }

@@ -15,18 +15,6 @@
 
     <link rel="canonical" href="https://tailwindcomponents.com/cheatsheet" itemprop="URL">
 
-    <!-- Google Tag Manager -->
-    <script>
-      (function (w, d, s, l, i) {
-        w[l] = w[l] || []; w[l].push({
-          'gtm.start':
-            new Date().getTime(), event: 'gtm.js'
-        }); var f = d.getElementsByTagName(s)[0],
-          j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-      })(window, document, 'script', 'dataLayer', 'GTM-NN5FG6H');
-    </script>
-    <!-- End Google Tag Manager -->
   </head>
   <body>
     <!-- Google Tag Manager (noscript) -->
@@ -35,7 +23,8 @@
         style="display:none;visibility:hidden"></iframe>
     </noscript>
     <!-- End Google Tag Manager (noscript) -->
-    <div id="root"></div>
+<!--    <div id="tw-cheatsheet"></div>-->
+    <tw-cheatsheet data-source="/cheatsheet.json"></tw-cheatsheet>
     <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.

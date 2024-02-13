@@ -1,22 +1,21 @@
-import React from 'react';
-import { render } from 'react-dom';
-import { Provider } from 'react-redux';
-import { ConnectedRouter } from 'connected-react-router';
-import store, { history } from './store';
+import {createElement} from 'react'
+import { render, unmountComponentAtNode } from 'react-dom';
 import App from './views/app';
-import * as serviceWorker from './serviceWorker';
 
 import './css/index.css';
 
-const target = document.querySelector('#root');
+class TailwindCheatSheet extends HTMLElement {
+	connectedCallback () {
+		console.log('connected')
+		render(createElement(App), this)
+	}
 
-render(
-	<Provider store={store}>
-		<ConnectedRouter history={history}>
-			<App />
-		</ConnectedRouter>
-	</Provider>,
-	target
-);
+	disconnectedCallback () {
+		unmountComponentAtNode(this)
+	}
+}
 
-serviceWorker.unregister();
+customElements.define('tw-cheatsheet', TailwindCheatSheet)
+
+export default TailwindCheatSheet
+

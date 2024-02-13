@@ -9,13 +9,13 @@ const ChevronDown = () => {
       xmlns="http://www.w3.org/2000/svg"
       fill="none"
       viewBox="0 0 24 24"
-      stroke-width="1.5"
+      strokeWidth="1.5"
       stroke="currentColor"
       className="w-4 h-4"
     >
       <path
-        stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeLinecap="round"
+        strokeLinejoin="round"
         d="M19.5 8.25l-7.5 7.5-7.5-7.5"
       />
     </svg>
@@ -47,12 +47,12 @@ const Category = ({ category }: { category: CategoryType }) => {
   return (
     <div
       className={
-        "rounded-md bg-gray-100 dark:bg-gray-800 pt-4 m-2 overflow-hidden"
+        "rounded-md bg-gray-200 dark:bg-gray-800 pt-4 m-2 overflow-hidden"
       }
     >
       <div
         className={
-          "flex justify-center items-center font-bold text-gray-800 dark:bg-gray-700 dark:text-gray-200 tracking-wider bg-gray-200 rounded-md px-3 py-2 mx-3 mb-2"
+          "flex justify-center items-center font-bold text-gray-800 dark:bg-gray-700 dark:text-gray-00 tracking-wider bg-gray-300 rounded-md px-3 py-2 mx-3 mb-2"
         }
       >
         <h1 className={"grow "}>{category.title}</h1>

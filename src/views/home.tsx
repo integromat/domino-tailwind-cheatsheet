@@ -3,19 +3,27 @@ import React, { useState, useEffect } from 'react';
 import Category from '../modules/models/category';
 import Subcategory from '../modules/models/subcategory';
 
-import { trackView, trackSearch } from '../utils/googleAnalytics';
-
 import SearchBar from '../components/searchBar';
 import Categories from '../components/categories';
 import Footer from '../components/footer';
 import Tagline from '../components/tagline';
 
-const Home = () => {
-    const json: Category[] = require('../modules/cheatsheet.json');
+let json: Category[] = [];
+
+const Home =  () => {
     const [cheatsheet, setCheatsheet] = useState<Category[]>(json);
 
     useEffect(() => {
-        trackView('/cheatsheet');
+        const source = document.querySelector('tw-cheatsheet')?.getAttribute('data-source');
+        if (!source) {
+            throw new Error('[data-source] is missing on "tw-cheatsheet" element')
+        }
+        fetch(source)
+            .then((res) => res.json())
+            .then((data) => {
+                json = JSON.parse(JSON.stringify(data));
+                setCheatsheet(data);
+            });
     }, []);
 
     const search = (text: string) => {
@@ -55,11 +63,10 @@ const Home = () => {
         });
 
         setCheatsheet(newCheatsheet);
-        trackSearch(text);
     };
 
     return (
-        <main className={"tracking-wide font-roboto min-h-screen grid content-start " + (JSON.parse(localStorage.getItem('darkMode') || '{}') ? 'dark bg-gray-900' : '')}>
+        <main className={"tracking-wide font-roboto min-h-screen grid content-start bg-white dark:bg-gray-900"}>
             <SearchBar searchFilter={search} />
             <Tagline />
             <Categories cheatsheet={cheatsheet} />
