@@ -6,7 +6,6 @@ import './css/index.css';
 
 class TailwindCheatSheet extends HTMLElement {
 	connectedCallback () {
-		console.log('connected')
 		render(createElement(App), this)
 	}
 
