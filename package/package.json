@@ -1,0 +1,28 @@
+{
+  "name": "@integromat/tailwind-config-viewer",
+  "version": "1.0.0",
+  "private": false,
+  "author": "Vojtech Malek",
+  "description": "Tailwind cheatsheet as custom element",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/integromat/domino-tailwind-cheatsheet.git"
+  },
+  "homepage": "https://design-system.integromat.dev",
+  "bugs": {
+    "url": "https://github.com/integromat/domino-tailwind-cheatsheet/issues"
+  },
+  "main": "main.js",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwind",
+    "cheatsheet",
+    "domino",
+    "react",
+    "custom",
+    "elements"
+  ]
+}

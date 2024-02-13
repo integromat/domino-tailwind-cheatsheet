@@ -1,5 +1,5 @@
 {
-    "name": "tailwind-cheatsheet",
+    "name": "@integromat/tailwind-cheatsheet",
     "version": "1.0.0",
     "private": true,
     "dependencies": {
@@ -37,10 +37,11 @@
         "react-scripts": "^5.0.0"
     },
     "scripts": {
+        "prepublishOnly": "echo \"please use npm run publish\n\" && exit 1;",
         "start": "SKIP_PREFLIGHT_CHECK=true react-scripts start",
         "build": "PUBLIC_URL=\"/cheatsheet/\" SKIP_PREFLIGHT_CHECK=true react-scripts build",
-        "postbuild": "rm -rf ../public/cheatsheet && mv build ../public/cheatsheet",
-        "test": "react-scripts test"
+        "test": "react-scripts test",
+        "publish": "npm run build && node prepublish.js && cd dist && npm publish"
     },
     "eslintConfig": {
         "extends": "react-app"
