@@ -8837,2053 +8837,2053 @@
 						"rgb(255, 255, 255)",
 						"dmo-border-select",
 						"border-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-x-select",
 						"border-left-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-y-select",
 						"border-top-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-s-select",
 						"border-inline-start-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-e-select",
 						"border-inline-end-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-t-select",
 						"border-top-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-r-select",
 						"border-right-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-b-select",
 						"border-bottom-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-l-select",
 						"border-left-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-select-hover",
 						"border-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-x-select-hover",
 						"border-left-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-y-select-hover",
 						"border-top-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-s-select-hover",
 						"border-inline-start-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-e-select-hover",
 						"border-inline-end-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-t-select-hover",
 						"border-top-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-r-select-hover",
 						"border-right-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-b-select-hover",
 						"border-bottom-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-l-select-hover",
 						"border-left-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(245, 242, 255)",
 						"dmo-border-select-selected",
 						"border-color: var(--dmo-color-primary-50);",
-						"#f5f2ff"
+						" #f5f2ff"
 					],
 					[
 						"rgb(245, 242, 255)",
 						"dmo-border-x-select-selected",
 						"border-left-color: var(--dmo-color-primary-50);",
-						"#f5f2ff"
+						" #f5f2ff"
 					],
 					[
 						"rgb(245, 242, 255)",
 						"dmo-border-y-select-selected",
 						"border-top-color: var(--dmo-color-primary-50);",
-						"#f5f2ff"
+						" #f5f2ff"
 					],
 					[
 						"rgb(245, 242, 255)",
 						"dmo-border-s-select-selected",
 						"border-inline-start-color: var(--dmo-color-primary-50);",
-						"#f5f2ff"
+						" #f5f2ff"
 					],
 					[
 						"rgb(245, 242, 255)",
 						"dmo-border-e-select-selected",
 						"border-inline-end-color: var(--dmo-color-primary-50);",
-						"#f5f2ff"
+						" #f5f2ff"
 					],
 					[
 						"rgb(245, 242, 255)",
 						"dmo-border-t-select-selected",
 						"border-top-color: var(--dmo-color-primary-50);",
-						"#f5f2ff"
+						" #f5f2ff"
 					],
 					[
 						"rgb(245, 242, 255)",
 						"dmo-border-r-select-selected",
 						"border-right-color: var(--dmo-color-primary-50);",
-						"#f5f2ff"
+						" #f5f2ff"
 					],
 					[
 						"rgb(245, 242, 255)",
 						"dmo-border-b-select-selected",
 						"border-bottom-color: var(--dmo-color-primary-50);",
-						"#f5f2ff"
+						" #f5f2ff"
 					],
 					[
 						"rgb(245, 242, 255)",
 						"dmo-border-l-select-selected",
 						"border-left-color: var(--dmo-color-primary-50);",
-						"#f5f2ff"
+						" #f5f2ff"
 					],
 					[
 						"rgb(229, 218, 255)",
 						"dmo-border-select-selectedhover",
 						"border-color: var(--dmo-color-primary-100);",
-						"#e5daff"
+						" #e5daff"
 					],
 					[
 						"rgb(229, 218, 255)",
 						"dmo-border-x-select-selectedhover",
 						"border-left-color: var(--dmo-color-primary-100);",
-						"#e5daff"
+						" #e5daff"
 					],
 					[
 						"rgb(229, 218, 255)",
 						"dmo-border-y-select-selectedhover",
 						"border-top-color: var(--dmo-color-primary-100);",
-						"#e5daff"
+						" #e5daff"
 					],
 					[
 						"rgb(229, 218, 255)",
 						"dmo-border-s-select-selectedhover",
 						"border-inline-start-color: var(--dmo-color-primary-100);",
-						"#e5daff"
+						" #e5daff"
 					],
 					[
 						"rgb(229, 218, 255)",
 						"dmo-border-e-select-selectedhover",
 						"border-inline-end-color: var(--dmo-color-primary-100);",
-						"#e5daff"
+						" #e5daff"
 					],
 					[
 						"rgb(229, 218, 255)",
 						"dmo-border-t-select-selectedhover",
 						"border-top-color: var(--dmo-color-primary-100);",
-						"#e5daff"
+						" #e5daff"
 					],
 					[
 						"rgb(229, 218, 255)",
 						"dmo-border-r-select-selectedhover",
 						"border-right-color: var(--dmo-color-primary-100);",
-						"#e5daff"
+						" #e5daff"
 					],
 					[
 						"rgb(229, 218, 255)",
 						"dmo-border-b-select-selectedhover",
 						"border-bottom-color: var(--dmo-color-primary-100);",
-						"#e5daff"
+						" #e5daff"
 					],
 					[
 						"rgb(229, 218, 255)",
 						"dmo-border-l-select-selectedhover",
 						"border-left-color: var(--dmo-color-primary-100);",
-						"#e5daff"
+						" #e5daff"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-canvas",
 						"border-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-x-canvas",
 						"border-left-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-y-canvas",
 						"border-top-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-s-canvas",
 						"border-inline-start-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-e-canvas",
 						"border-inline-end-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-t-canvas",
 						"border-top-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-r-canvas",
 						"border-right-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-b-canvas",
 						"border-bottom-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-l-canvas",
 						"border-left-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-dialog",
 						"border-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-x-dialog",
 						"border-left-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-y-dialog",
 						"border-top-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-s-dialog",
 						"border-inline-start-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-e-dialog",
 						"border-inline-end-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-t-dialog",
 						"border-top-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-r-dialog",
 						"border-right-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-b-dialog",
 						"border-bottom-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-border-l-dialog",
 						"border-left-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-contrast",
 						"border-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-x-contrast",
 						"border-left-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-y-contrast",
 						"border-top-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-s-contrast",
 						"border-inline-start-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-e-contrast",
 						"border-inline-end-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-t-contrast",
 						"border-top-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-r-contrast",
 						"border-right-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-b-contrast",
 						"border-bottom-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-l-contrast",
 						"border-left-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(208, 188, 255)",
 						"dmo-border-dialogheader",
 						"border-color: var(--dmo-color-primary-200);",
-						"#d0bcff"
+						" #d0bcff"
 					],
 					[
 						"rgb(208, 188, 255)",
 						"dmo-border-x-dialogheader",
 						"border-left-color: var(--dmo-color-primary-200);",
-						"#d0bcff"
+						" #d0bcff"
 					],
 					[
 						"rgb(208, 188, 255)",
 						"dmo-border-y-dialogheader",
 						"border-top-color: var(--dmo-color-primary-200);",
-						"#d0bcff"
+						" #d0bcff"
 					],
 					[
 						"rgb(208, 188, 255)",
 						"dmo-border-s-dialogheader",
 						"border-inline-start-color: var(--dmo-color-primary-200);",
-						"#d0bcff"
+						" #d0bcff"
 					],
 					[
 						"rgb(208, 188, 255)",
 						"dmo-border-e-dialogheader",
 						"border-inline-end-color: var(--dmo-color-primary-200);",
-						"#d0bcff"
+						" #d0bcff"
 					],
 					[
 						"rgb(208, 188, 255)",
 						"dmo-border-t-dialogheader",
 						"border-top-color: var(--dmo-color-primary-200);",
-						"#d0bcff"
+						" #d0bcff"
 					],
 					[
 						"rgb(208, 188, 255)",
 						"dmo-border-r-dialogheader",
 						"border-right-color: var(--dmo-color-primary-200);",
-						"#d0bcff"
+						" #d0bcff"
 					],
 					[
 						"rgb(208, 188, 255)",
 						"dmo-border-b-dialogheader",
 						"border-bottom-color: var(--dmo-color-primary-200);",
-						"#d0bcff"
+						" #d0bcff"
 					],
 					[
 						"rgb(208, 188, 255)",
 						"dmo-border-l-dialogheader",
 						"border-left-color: var(--dmo-color-primary-200);",
-						"#d0bcff"
+						" #d0bcff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-tablerow",
 						"border-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-x-tablerow",
 						"border-left-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-y-tablerow",
 						"border-top-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-s-tablerow",
 						"border-inline-start-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-e-tablerow",
 						"border-inline-end-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-t-tablerow",
 						"border-top-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-r-tablerow",
 						"border-right-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-b-tablerow",
 						"border-bottom-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-l-tablerow",
 						"border-left-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-custom-gap",
 						"border-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-x-custom-gap",
 						"border-left-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-y-custom-gap",
 						"border-top-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-s-custom-gap",
 						"border-inline-start-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-e-custom-gap",
 						"border-inline-end-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-t-custom-gap",
 						"border-top-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-r-custom-gap",
 						"border-right-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-b-custom-gap",
 						"border-bottom-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-l-custom-gap",
 						"border-left-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(168, 168, 168)",
 						"dmo-border-neutral",
 						"border-color: var(--dmo-color-neutral-300);",
-						"#a8a8a8"
+						" #a8a8a8"
 					],
 					[
 						"rgb(168, 168, 168)",
 						"dmo-border-x-neutral",
 						"border-left-color: var(--dmo-color-neutral-300);",
-						"#a8a8a8"
+						" #a8a8a8"
 					],
 					[
 						"rgb(168, 168, 168)",
 						"dmo-border-y-neutral",
 						"border-top-color: var(--dmo-color-neutral-300);",
-						"#a8a8a8"
+						" #a8a8a8"
 					],
 					[
 						"rgb(168, 168, 168)",
 						"dmo-border-s-neutral",
 						"border-inline-start-color: var(--dmo-color-neutral-300);",
-						"#a8a8a8"
+						" #a8a8a8"
 					],
 					[
 						"rgb(168, 168, 168)",
 						"dmo-border-e-neutral",
 						"border-inline-end-color: var(--dmo-color-neutral-300);",
-						"#a8a8a8"
+						" #a8a8a8"
 					],
 					[
 						"rgb(168, 168, 168)",
 						"dmo-border-t-neutral",
 						"border-top-color: var(--dmo-color-neutral-300);",
-						"#a8a8a8"
+						" #a8a8a8"
 					],
 					[
 						"rgb(168, 168, 168)",
 						"dmo-border-r-neutral",
 						"border-right-color: var(--dmo-color-neutral-300);",
-						"#a8a8a8"
+						" #a8a8a8"
 					],
 					[
 						"rgb(168, 168, 168)",
 						"dmo-border-b-neutral",
 						"border-bottom-color: var(--dmo-color-neutral-300);",
-						"#a8a8a8"
+						" #a8a8a8"
 					],
 					[
 						"rgb(168, 168, 168)",
 						"dmo-border-l-neutral",
 						"border-left-color: var(--dmo-color-neutral-300);",
-						"#a8a8a8"
+						" #a8a8a8"
 					],
 					[
 						"rgb(111, 111, 111)",
 						"dmo-border-neutral-accented",
 						"border-color: var(--dmo-color-neutral-500);",
-						"#6f6f6f"
+						" #6f6f6f"
 					],
 					[
 						"rgb(111, 111, 111)",
 						"dmo-border-x-neutral-accented",
 						"border-left-color: var(--dmo-color-neutral-500);",
-						"#6f6f6f"
+						" #6f6f6f"
 					],
 					[
 						"rgb(111, 111, 111)",
 						"dmo-border-y-neutral-accented",
 						"border-top-color: var(--dmo-color-neutral-500);",
-						"#6f6f6f"
+						" #6f6f6f"
 					],
 					[
 						"rgb(111, 111, 111)",
 						"dmo-border-s-neutral-accented",
 						"border-inline-start-color: var(--dmo-color-neutral-500);",
-						"#6f6f6f"
+						" #6f6f6f"
 					],
 					[
 						"rgb(111, 111, 111)",
 						"dmo-border-e-neutral-accented",
 						"border-inline-end-color: var(--dmo-color-neutral-500);",
-						"#6f6f6f"
+						" #6f6f6f"
 					],
 					[
 						"rgb(111, 111, 111)",
 						"dmo-border-t-neutral-accented",
 						"border-top-color: var(--dmo-color-neutral-500);",
-						"#6f6f6f"
+						" #6f6f6f"
 					],
 					[
 						"rgb(111, 111, 111)",
 						"dmo-border-r-neutral-accented",
 						"border-right-color: var(--dmo-color-neutral-500);",
-						"#6f6f6f"
+						" #6f6f6f"
 					],
 					[
 						"rgb(111, 111, 111)",
 						"dmo-border-b-neutral-accented",
 						"border-bottom-color: var(--dmo-color-neutral-500);",
-						"#6f6f6f"
+						" #6f6f6f"
 					],
 					[
 						"rgb(111, 111, 111)",
 						"dmo-border-l-neutral-accented",
 						"border-left-color: var(--dmo-color-neutral-500);",
-						"#6f6f6f"
+						" #6f6f6f"
 					],
 					[
 						"rgb(223, 223, 223)",
 						"dmo-border-neutral-subdued",
 						"border-color: var(--dmo-color-neutral-100);",
-						"#dfdfdf"
+						" #dfdfdf"
 					],
 					[
 						"rgb(223, 223, 223)",
 						"dmo-border-x-neutral-subdued",
 						"border-left-color: var(--dmo-color-neutral-100);",
-						"#dfdfdf"
+						" #dfdfdf"
 					],
 					[
 						"rgb(223, 223, 223)",
 						"dmo-border-y-neutral-subdued",
 						"border-top-color: var(--dmo-color-neutral-100);",
-						"#dfdfdf"
+						" #dfdfdf"
 					],
 					[
 						"rgb(223, 223, 223)",
 						"dmo-border-s-neutral-subdued",
 						"border-inline-start-color: var(--dmo-color-neutral-100);",
-						"#dfdfdf"
+						" #dfdfdf"
 					],
 					[
 						"rgb(223, 223, 223)",
 						"dmo-border-e-neutral-subdued",
 						"border-inline-end-color: var(--dmo-color-neutral-100);",
-						"#dfdfdf"
+						" #dfdfdf"
 					],
 					[
 						"rgb(223, 223, 223)",
 						"dmo-border-t-neutral-subdued",
 						"border-top-color: var(--dmo-color-neutral-100);",
-						"#dfdfdf"
+						" #dfdfdf"
 					],
 					[
 						"rgb(223, 223, 223)",
 						"dmo-border-r-neutral-subdued",
 						"border-right-color: var(--dmo-color-neutral-100);",
-						"#dfdfdf"
+						" #dfdfdf"
 					],
 					[
 						"rgb(223, 223, 223)",
 						"dmo-border-b-neutral-subdued",
 						"border-bottom-color: var(--dmo-color-neutral-100);",
-						"#dfdfdf"
+						" #dfdfdf"
 					],
 					[
 						"rgb(223, 223, 223)",
 						"dmo-border-l-neutral-subdued",
 						"border-left-color: var(--dmo-color-neutral-100);",
-						"#dfdfdf"
+						" #dfdfdf"
 					],
 					[
 						"rgb(185, 150, 255)",
 						"dmo-border-primary",
 						"border-color: var(--dmo-color-primary-300);",
-						"#b996ff"
+						" #b996ff"
 					],
 					[
 						"rgb(185, 150, 255)",
 						"dmo-border-x-primary",
 						"border-left-color: var(--dmo-color-primary-300);",
-						"#b996ff"
+						" #b996ff"
 					],
 					[
 						"rgb(185, 150, 255)",
 						"dmo-border-y-primary",
 						"border-top-color: var(--dmo-color-primary-300);",
-						"#b996ff"
+						" #b996ff"
 					],
 					[
 						"rgb(185, 150, 255)",
 						"dmo-border-s-primary",
 						"border-inline-start-color: var(--dmo-color-primary-300);",
-						"#b996ff"
+						" #b996ff"
 					],
 					[
 						"rgb(185, 150, 255)",
 						"dmo-border-e-primary",
 						"border-inline-end-color: var(--dmo-color-primary-300);",
-						"#b996ff"
+						" #b996ff"
 					],
 					[
 						"rgb(185, 150, 255)",
 						"dmo-border-t-primary",
 						"border-top-color: var(--dmo-color-primary-300);",
-						"#b996ff"
+						" #b996ff"
 					],
 					[
 						"rgb(185, 150, 255)",
 						"dmo-border-r-primary",
 						"border-right-color: var(--dmo-color-primary-300);",
-						"#b996ff"
+						" #b996ff"
 					],
 					[
 						"rgb(185, 150, 255)",
 						"dmo-border-b-primary",
 						"border-bottom-color: var(--dmo-color-primary-300);",
-						"#b996ff"
+						" #b996ff"
 					],
 					[
 						"rgb(185, 150, 255)",
 						"dmo-border-l-primary",
 						"border-left-color: var(--dmo-color-primary-300);",
-						"#b996ff"
+						" #b996ff"
 					],
 					[
 						"rgb(145, 56, 254)",
 						"dmo-border-primary-accented",
 						"border-color: var(--dmo-color-primary-500);",
-						"#9138fe"
+						" #9138fe"
 					],
 					[
 						"rgb(145, 56, 254)",
 						"dmo-border-x-primary-accented",
 						"border-left-color: var(--dmo-color-primary-500);",
-						"#9138fe"
+						" #9138fe"
 					],
 					[
 						"rgb(145, 56, 254)",
 						"dmo-border-y-primary-accented",
 						"border-top-color: var(--dmo-color-primary-500);",
-						"#9138fe"
+						" #9138fe"
 					],
 					[
 						"rgb(145, 56, 254)",
 						"dmo-border-s-primary-accented",
 						"border-inline-start-color: var(--dmo-color-primary-500);",
-						"#9138fe"
+						" #9138fe"
 					],
 					[
 						"rgb(145, 56, 254)",
 						"dmo-border-e-primary-accented",
 						"border-inline-end-color: var(--dmo-color-primary-500);",
-						"#9138fe"
+						" #9138fe"
 					],
 					[
 						"rgb(145, 56, 254)",
 						"dmo-border-t-primary-accented",
 						"border-top-color: var(--dmo-color-primary-500);",
-						"#9138fe"
+						" #9138fe"
 					],
 					[
 						"rgb(145, 56, 254)",
 						"dmo-border-r-primary-accented",
 						"border-right-color: var(--dmo-color-primary-500);",
-						"#9138fe"
+						" #9138fe"
 					],
 					[
 						"rgb(145, 56, 254)",
 						"dmo-border-b-primary-accented",
 						"border-bottom-color: var(--dmo-color-primary-500);",
-						"#9138fe"
+						" #9138fe"
 					],
 					[
 						"rgb(145, 56, 254)",
 						"dmo-border-l-primary-accented",
 						"border-left-color: var(--dmo-color-primary-500);",
-						"#9138fe"
+						" #9138fe"
 					],
 					[
 						"rgb(229, 218, 255)",
 						"dmo-border-primary-subdued",
 						"border-color: var(--dmo-color-primary-100);",
-						"#e5daff"
+						" #e5daff"
 					],
 					[
 						"rgb(229, 218, 255)",
 						"dmo-border-x-primary-subdued",
 						"border-left-color: var(--dmo-color-primary-100);",
-						"#e5daff"
+						" #e5daff"
 					],
 					[
 						"rgb(229, 218, 255)",
 						"dmo-border-y-primary-subdued",
 						"border-top-color: var(--dmo-color-primary-100);",
-						"#e5daff"
+						" #e5daff"
 					],
 					[
 						"rgb(229, 218, 255)",
 						"dmo-border-s-primary-subdued",
 						"border-inline-start-color: var(--dmo-color-primary-100);",
-						"#e5daff"
+						" #e5daff"
 					],
 					[
 						"rgb(229, 218, 255)",
 						"dmo-border-e-primary-subdued",
 						"border-inline-end-color: var(--dmo-color-primary-100);",
-						"#e5daff"
+						" #e5daff"
 					],
 					[
 						"rgb(229, 218, 255)",
 						"dmo-border-t-primary-subdued",
 						"border-top-color: var(--dmo-color-primary-100);",
-						"#e5daff"
+						" #e5daff"
 					],
 					[
 						"rgb(229, 218, 255)",
 						"dmo-border-r-primary-subdued",
 						"border-right-color: var(--dmo-color-primary-100);",
-						"#e5daff"
+						" #e5daff"
 					],
 					[
 						"rgb(229, 218, 255)",
 						"dmo-border-b-primary-subdued",
 						"border-bottom-color: var(--dmo-color-primary-100);",
-						"#e5daff"
+						" #e5daff"
 					],
 					[
 						"rgb(229, 218, 255)",
 						"dmo-border-l-primary-subdued",
 						"border-left-color: var(--dmo-color-primary-100);",
-						"#e5daff"
+						" #e5daff"
 					],
 					[
 						"rgb(0, 186, 204)",
 						"dmo-border-info",
 						"border-color: var(--dmo-color-info-300);",
-						"#00bacc"
+						" #00bacc"
 					],
 					[
 						"rgb(0, 186, 204)",
 						"dmo-border-x-info",
 						"border-left-color: var(--dmo-color-info-300);",
-						"#00bacc"
+						" #00bacc"
 					],
 					[
 						"rgb(0, 186, 204)",
 						"dmo-border-y-info",
 						"border-top-color: var(--dmo-color-info-300);",
-						"#00bacc"
+						" #00bacc"
 					],
 					[
 						"rgb(0, 186, 204)",
 						"dmo-border-s-info",
 						"border-inline-start-color: var(--dmo-color-info-300);",
-						"#00bacc"
+						" #00bacc"
 					],
 					[
 						"rgb(0, 186, 204)",
 						"dmo-border-e-info",
 						"border-inline-end-color: var(--dmo-color-info-300);",
-						"#00bacc"
+						" #00bacc"
 					],
 					[
 						"rgb(0, 186, 204)",
 						"dmo-border-t-info",
 						"border-top-color: var(--dmo-color-info-300);",
-						"#00bacc"
+						" #00bacc"
 					],
 					[
 						"rgb(0, 186, 204)",
 						"dmo-border-r-info",
 						"border-right-color: var(--dmo-color-info-300);",
-						"#00bacc"
+						" #00bacc"
 					],
 					[
 						"rgb(0, 186, 204)",
 						"dmo-border-b-info",
 						"border-bottom-color: var(--dmo-color-info-300);",
-						"#00bacc"
+						" #00bacc"
 					],
 					[
 						"rgb(0, 186, 204)",
 						"dmo-border-l-info",
 						"border-left-color: var(--dmo-color-info-300);",
-						"#00bacc"
+						" #00bacc"
 					],
 					[
 						"rgb(0, 123, 136)",
 						"dmo-border-info-accented",
 						"border-color: var(--dmo-color-info-500);",
-						"#007b88"
+						" #007b88"
 					],
 					[
 						"rgb(0, 123, 136)",
 						"dmo-border-x-info-accented",
 						"border-left-color: var(--dmo-color-info-500);",
-						"#007b88"
+						" #007b88"
 					],
 					[
 						"rgb(0, 123, 136)",
 						"dmo-border-y-info-accented",
 						"border-top-color: var(--dmo-color-info-500);",
-						"#007b88"
+						" #007b88"
 					],
 					[
 						"rgb(0, 123, 136)",
 						"dmo-border-s-info-accented",
 						"border-inline-start-color: var(--dmo-color-info-500);",
-						"#007b88"
+						" #007b88"
 					],
 					[
 						"rgb(0, 123, 136)",
 						"dmo-border-e-info-accented",
 						"border-inline-end-color: var(--dmo-color-info-500);",
-						"#007b88"
+						" #007b88"
 					],
 					[
 						"rgb(0, 123, 136)",
 						"dmo-border-t-info-accented",
 						"border-top-color: var(--dmo-color-info-500);",
-						"#007b88"
+						" #007b88"
 					],
 					[
 						"rgb(0, 123, 136)",
 						"dmo-border-r-info-accented",
 						"border-right-color: var(--dmo-color-info-500);",
-						"#007b88"
+						" #007b88"
 					],
 					[
 						"rgb(0, 123, 136)",
 						"dmo-border-b-info-accented",
 						"border-bottom-color: var(--dmo-color-info-500);",
-						"#007b88"
+						" #007b88"
 					],
 					[
 						"rgb(0, 123, 136)",
 						"dmo-border-l-info-accented",
 						"border-left-color: var(--dmo-color-info-500);",
-						"#007b88"
+						" #007b88"
 					],
 					[
 						"rgb(150, 238, 252)",
 						"dmo-border-info-subdued",
 						"border-color: var(--dmo-color-info-100);",
-						"#96eefc"
+						" #96eefc"
 					],
 					[
 						"rgb(150, 238, 252)",
 						"dmo-border-x-info-subdued",
 						"border-left-color: var(--dmo-color-info-100);",
-						"#96eefc"
+						" #96eefc"
 					],
 					[
 						"rgb(150, 238, 252)",
 						"dmo-border-y-info-subdued",
 						"border-top-color: var(--dmo-color-info-100);",
-						"#96eefc"
+						" #96eefc"
 					],
 					[
 						"rgb(150, 238, 252)",
 						"dmo-border-s-info-subdued",
 						"border-inline-start-color: var(--dmo-color-info-100);",
-						"#96eefc"
+						" #96eefc"
 					],
 					[
 						"rgb(150, 238, 252)",
 						"dmo-border-e-info-subdued",
 						"border-inline-end-color: var(--dmo-color-info-100);",
-						"#96eefc"
+						" #96eefc"
 					],
 					[
 						"rgb(150, 238, 252)",
 						"dmo-border-t-info-subdued",
 						"border-top-color: var(--dmo-color-info-100);",
-						"#96eefc"
+						" #96eefc"
 					],
 					[
 						"rgb(150, 238, 252)",
 						"dmo-border-r-info-subdued",
 						"border-right-color: var(--dmo-color-info-100);",
-						"#96eefc"
+						" #96eefc"
 					],
 					[
 						"rgb(150, 238, 252)",
 						"dmo-border-b-info-subdued",
 						"border-bottom-color: var(--dmo-color-info-100);",
-						"#96eefc"
+						" #96eefc"
 					],
 					[
 						"rgb(150, 238, 252)",
 						"dmo-border-l-info-subdued",
 						"border-left-color: var(--dmo-color-info-100);",
-						"#96eefc"
+						" #96eefc"
 					],
 					[
 						"rgb(135, 183, 74)",
 						"dmo-border-success",
 						"border-color: var(--dmo-color-success-300);",
-						"#87b74a"
+						" #87b74a"
 					],
 					[
 						"rgb(135, 183, 74)",
 						"dmo-border-x-success",
 						"border-left-color: var(--dmo-color-success-300);",
-						"#87b74a"
+						" #87b74a"
 					],
 					[
 						"rgb(135, 183, 74)",
 						"dmo-border-y-success",
 						"border-top-color: var(--dmo-color-success-300);",
-						"#87b74a"
+						" #87b74a"
 					],
 					[
 						"rgb(135, 183, 74)",
 						"dmo-border-s-success",
 						"border-inline-start-color: var(--dmo-color-success-300);",
-						"#87b74a"
+						" #87b74a"
 					],
 					[
 						"rgb(135, 183, 74)",
 						"dmo-border-e-success",
 						"border-inline-end-color: var(--dmo-color-success-300);",
-						"#87b74a"
+						" #87b74a"
 					],
 					[
 						"rgb(135, 183, 74)",
 						"dmo-border-t-success",
 						"border-top-color: var(--dmo-color-success-300);",
-						"#87b74a"
+						" #87b74a"
 					],
 					[
 						"rgb(135, 183, 74)",
 						"dmo-border-r-success",
 						"border-right-color: var(--dmo-color-success-300);",
-						"#87b74a"
+						" #87b74a"
 					],
 					[
 						"rgb(135, 183, 74)",
 						"dmo-border-b-success",
 						"border-bottom-color: var(--dmo-color-success-300);",
-						"#87b74a"
+						" #87b74a"
 					],
 					[
 						"rgb(135, 183, 74)",
 						"dmo-border-l-success",
 						"border-left-color: var(--dmo-color-success-300);",
-						"#87b74a"
+						" #87b74a"
 					],
 					[
 						"rgb(89, 121, 49)",
 						"dmo-border-success-accented",
 						"border-color: var(--dmo-color-success-500);",
-						"#597931"
+						" #597931"
 					],
 					[
 						"rgb(89, 121, 49)",
 						"dmo-border-x-success-accented",
 						"border-left-color: var(--dmo-color-success-500);",
-						"#597931"
+						" #597931"
 					],
 					[
 						"rgb(89, 121, 49)",
 						"dmo-border-y-success-accented",
 						"border-top-color: var(--dmo-color-success-500);",
-						"#597931"
+						" #597931"
 					],
 					[
 						"rgb(89, 121, 49)",
 						"dmo-border-s-success-accented",
 						"border-inline-start-color: var(--dmo-color-success-500);",
-						"#597931"
+						" #597931"
 					],
 					[
 						"rgb(89, 121, 49)",
 						"dmo-border-e-success-accented",
 						"border-inline-end-color: var(--dmo-color-success-500);",
-						"#597931"
+						" #597931"
 					],
 					[
 						"rgb(89, 121, 49)",
 						"dmo-border-t-success-accented",
 						"border-top-color: var(--dmo-color-success-500);",
-						"#597931"
+						" #597931"
 					],
 					[
 						"rgb(89, 121, 49)",
 						"dmo-border-r-success-accented",
 						"border-right-color: var(--dmo-color-success-500);",
-						"#597931"
+						" #597931"
 					],
 					[
 						"rgb(89, 121, 49)",
 						"dmo-border-b-success-accented",
 						"border-bottom-color: var(--dmo-color-success-500);",
-						"#597931"
+						" #597931"
 					],
 					[
 						"rgb(89, 121, 49)",
 						"dmo-border-l-success-accented",
 						"border-left-color: var(--dmo-color-success-500);",
-						"#597931"
+						" #597931"
 					],
 					[
 						"rgb(189, 239, 132)",
 						"dmo-border-success-subdued",
 						"border-color: var(--dmo-color-success-100);",
-						"#bdef84"
+						" #bdef84"
 					],
 					[
 						"rgb(189, 239, 132)",
 						"dmo-border-x-success-subdued",
 						"border-left-color: var(--dmo-color-success-100);",
-						"#bdef84"
+						" #bdef84"
 					],
 					[
 						"rgb(189, 239, 132)",
 						"dmo-border-y-success-subdued",
 						"border-top-color: var(--dmo-color-success-100);",
-						"#bdef84"
+						" #bdef84"
 					],
 					[
 						"rgb(189, 239, 132)",
 						"dmo-border-s-success-subdued",
 						"border-inline-start-color: var(--dmo-color-success-100);",
-						"#bdef84"
+						" #bdef84"
 					],
 					[
 						"rgb(189, 239, 132)",
 						"dmo-border-e-success-subdued",
 						"border-inline-end-color: var(--dmo-color-success-100);",
-						"#bdef84"
+						" #bdef84"
 					],
 					[
 						"rgb(189, 239, 132)",
 						"dmo-border-t-success-subdued",
 						"border-top-color: var(--dmo-color-success-100);",
-						"#bdef84"
+						" #bdef84"
 					],
 					[
 						"rgb(189, 239, 132)",
 						"dmo-border-r-success-subdued",
 						"border-right-color: var(--dmo-color-success-100);",
-						"#bdef84"
+						" #bdef84"
 					],
 					[
 						"rgb(189, 239, 132)",
 						"dmo-border-b-success-subdued",
 						"border-bottom-color: var(--dmo-color-success-100);",
-						"#bdef84"
+						" #bdef84"
 					],
 					[
 						"rgb(189, 239, 132)",
 						"dmo-border-l-success-subdued",
 						"border-left-color: var(--dmo-color-success-100);",
-						"#bdef84"
+						" #bdef84"
 					],
 					[
 						"rgb(215, 158, 58)",
 						"dmo-border-warning",
 						"border-color: var(--dmo-color-warning-300);",
-						"#d79e3a"
+						" #d79e3a"
 					],
 					[
 						"rgb(215, 158, 58)",
 						"dmo-border-x-warning",
 						"border-left-color: var(--dmo-color-warning-300);",
-						"#d79e3a"
+						" #d79e3a"
 					],
 					[
 						"rgb(215, 158, 58)",
 						"dmo-border-y-warning",
 						"border-top-color: var(--dmo-color-warning-300);",
-						"#d79e3a"
+						" #d79e3a"
 					],
 					[
 						"rgb(215, 158, 58)",
 						"dmo-border-s-warning",
 						"border-inline-start-color: var(--dmo-color-warning-300);",
-						"#d79e3a"
+						" #d79e3a"
 					],
 					[
 						"rgb(215, 158, 58)",
 						"dmo-border-e-warning",
 						"border-inline-end-color: var(--dmo-color-warning-300);",
-						"#d79e3a"
+						" #d79e3a"
 					],
 					[
 						"rgb(215, 158, 58)",
 						"dmo-border-t-warning",
 						"border-top-color: var(--dmo-color-warning-300);",
-						"#d79e3a"
+						" #d79e3a"
 					],
 					[
 						"rgb(215, 158, 58)",
 						"dmo-border-r-warning",
 						"border-right-color: var(--dmo-color-warning-300);",
-						"#d79e3a"
+						" #d79e3a"
 					],
 					[
 						"rgb(215, 158, 58)",
 						"dmo-border-b-warning",
 						"border-bottom-color: var(--dmo-color-warning-300);",
-						"#d79e3a"
+						" #d79e3a"
 					],
 					[
 						"rgb(215, 158, 58)",
 						"dmo-border-l-warning",
 						"border-left-color: var(--dmo-color-warning-300);",
-						"#d79e3a"
+						" #d79e3a"
 					],
 					[
 						"rgb(170, 91, 0)",
 						"dmo-border-warning-accented",
 						"border-color: var(--dmo-color-warning-500);",
-						"#aa5b00"
+						" #aa5b00"
 					],
 					[
 						"rgb(170, 91, 0)",
 						"dmo-border-x-warning-accented",
 						"border-left-color: var(--dmo-color-warning-500);",
-						"#aa5b00"
+						" #aa5b00"
 					],
 					[
 						"rgb(170, 91, 0)",
 						"dmo-border-y-warning-accented",
 						"border-top-color: var(--dmo-color-warning-500);",
-						"#aa5b00"
+						" #aa5b00"
 					],
 					[
 						"rgb(170, 91, 0)",
 						"dmo-border-s-warning-accented",
 						"border-inline-start-color: var(--dmo-color-warning-500);",
-						"#aa5b00"
+						" #aa5b00"
 					],
 					[
 						"rgb(170, 91, 0)",
 						"dmo-border-e-warning-accented",
 						"border-inline-end-color: var(--dmo-color-warning-500);",
-						"#aa5b00"
+						" #aa5b00"
 					],
 					[
 						"rgb(170, 91, 0)",
 						"dmo-border-t-warning-accented",
 						"border-top-color: var(--dmo-color-warning-500);",
-						"#aa5b00"
+						" #aa5b00"
 					],
 					[
 						"rgb(170, 91, 0)",
 						"dmo-border-r-warning-accented",
 						"border-right-color: var(--dmo-color-warning-500);",
-						"#aa5b00"
+						" #aa5b00"
 					],
 					[
 						"rgb(170, 91, 0)",
 						"dmo-border-b-warning-accented",
 						"border-bottom-color: var(--dmo-color-warning-500);",
-						"#aa5b00"
+						" #aa5b00"
 					],
 					[
 						"rgb(170, 91, 0)",
 						"dmo-border-l-warning-accented",
 						"border-left-color: var(--dmo-color-warning-500);",
-						"#aa5b00"
+						" #aa5b00"
 					],
 					[
 						"rgb(250, 223, 107)",
 						"dmo-border-warning-subdued",
 						"border-color: var(--dmo-color-warning-100);",
-						"#fadf6b"
+						" #fadf6b"
 					],
 					[
 						"rgb(250, 223, 107)",
 						"dmo-border-x-warning-subdued",
 						"border-left-color: var(--dmo-color-warning-100);",
-						"#fadf6b"
+						" #fadf6b"
 					],
 					[
 						"rgb(250, 223, 107)",
 						"dmo-border-y-warning-subdued",
 						"border-top-color: var(--dmo-color-warning-100);",
-						"#fadf6b"
+						" #fadf6b"
 					],
 					[
 						"rgb(250, 223, 107)",
 						"dmo-border-s-warning-subdued",
 						"border-inline-start-color: var(--dmo-color-warning-100);",
-						"#fadf6b"
+						" #fadf6b"
 					],
 					[
 						"rgb(250, 223, 107)",
 						"dmo-border-e-warning-subdued",
 						"border-inline-end-color: var(--dmo-color-warning-100);",
-						"#fadf6b"
+						" #fadf6b"
 					],
 					[
 						"rgb(250, 223, 107)",
 						"dmo-border-t-warning-subdued",
 						"border-top-color: var(--dmo-color-warning-100);",
-						"#fadf6b"
+						" #fadf6b"
 					],
 					[
 						"rgb(250, 223, 107)",
 						"dmo-border-r-warning-subdued",
 						"border-right-color: var(--dmo-color-warning-100);",
-						"#fadf6b"
+						" #fadf6b"
 					],
 					[
 						"rgb(250, 223, 107)",
 						"dmo-border-b-warning-subdued",
 						"border-bottom-color: var(--dmo-color-warning-100);",
-						"#fadf6b"
+						" #fadf6b"
 					],
 					[
 						"rgb(250, 223, 107)",
 						"dmo-border-l-warning-subdued",
 						"border-left-color: var(--dmo-color-warning-100);",
-						"#fadf6b"
+						" #fadf6b"
 					],
 					[
 						"rgb(240, 141, 136)",
 						"dmo-border-danger",
 						"border-color: var(--dmo-color-danger-300);",
-						"#f08d88"
+						" #f08d88"
 					],
 					[
 						"rgb(240, 141, 136)",
 						"dmo-border-x-danger",
 						"border-left-color: var(--dmo-color-danger-300);",
-						"#f08d88"
+						" #f08d88"
 					],
 					[
 						"rgb(240, 141, 136)",
 						"dmo-border-y-danger",
 						"border-top-color: var(--dmo-color-danger-300);",
-						"#f08d88"
+						" #f08d88"
 					],
 					[
 						"rgb(240, 141, 136)",
 						"dmo-border-s-danger",
 						"border-inline-start-color: var(--dmo-color-danger-300);",
-						"#f08d88"
+						" #f08d88"
 					],
 					[
 						"rgb(240, 141, 136)",
 						"dmo-border-e-danger",
 						"border-inline-end-color: var(--dmo-color-danger-300);",
-						"#f08d88"
+						" #f08d88"
 					],
 					[
 						"rgb(240, 141, 136)",
 						"dmo-border-t-danger",
 						"border-top-color: var(--dmo-color-danger-300);",
-						"#f08d88"
+						" #f08d88"
 					],
 					[
 						"rgb(240, 141, 136)",
 						"dmo-border-r-danger",
 						"border-right-color: var(--dmo-color-danger-300);",
-						"#f08d88"
+						" #f08d88"
 					],
 					[
 						"rgb(240, 141, 136)",
 						"dmo-border-b-danger",
 						"border-bottom-color: var(--dmo-color-danger-300);",
-						"#f08d88"
+						" #f08d88"
 					],
 					[
 						"rgb(240, 141, 136)",
 						"dmo-border-l-danger",
 						"border-left-color: var(--dmo-color-danger-300);",
-						"#f08d88"
+						" #f08d88"
 					],
 					[
 						"rgb(200, 63, 50)",
 						"dmo-border-danger-accented",
 						"border-color: var(--dmo-color-danger-500);",
-						"#c83f32"
+						" #c83f32"
 					],
 					[
 						"rgb(200, 63, 50)",
 						"dmo-border-x-danger-accented",
 						"border-left-color: var(--dmo-color-danger-500);",
-						"#c83f32"
+						" #c83f32"
 					],
 					[
 						"rgb(200, 63, 50)",
 						"dmo-border-y-danger-accented",
 						"border-top-color: var(--dmo-color-danger-500);",
-						"#c83f32"
+						" #c83f32"
 					],
 					[
 						"rgb(200, 63, 50)",
 						"dmo-border-s-danger-accented",
 						"border-inline-start-color: var(--dmo-color-danger-500);",
-						"#c83f32"
+						" #c83f32"
 					],
 					[
 						"rgb(200, 63, 50)",
 						"dmo-border-e-danger-accented",
 						"border-inline-end-color: var(--dmo-color-danger-500);",
-						"#c83f32"
+						" #c83f32"
 					],
 					[
 						"rgb(200, 63, 50)",
 						"dmo-border-t-danger-accented",
 						"border-top-color: var(--dmo-color-danger-500);",
-						"#c83f32"
+						" #c83f32"
 					],
 					[
 						"rgb(200, 63, 50)",
 						"dmo-border-r-danger-accented",
 						"border-right-color: var(--dmo-color-danger-500);",
-						"#c83f32"
+						" #c83f32"
 					],
 					[
 						"rgb(200, 63, 50)",
 						"dmo-border-b-danger-accented",
 						"border-bottom-color: var(--dmo-color-danger-500);",
-						"#c83f32"
+						" #c83f32"
 					],
 					[
 						"rgb(200, 63, 50)",
 						"dmo-border-l-danger-accented",
 						"border-left-color: var(--dmo-color-danger-500);",
-						"#c83f32"
+						" #c83f32"
 					],
 					[
 						"rgb(253, 214, 213)",
 						"dmo-border-danger-subdued",
 						"border-color: var(--dmo-color-danger-100);",
-						"#fdd6d5"
+						" #fdd6d5"
 					],
 					[
 						"rgb(253, 214, 213)",
 						"dmo-border-x-danger-subdued",
 						"border-left-color: var(--dmo-color-danger-100);",
-						"#fdd6d5"
+						" #fdd6d5"
 					],
 					[
 						"rgb(253, 214, 213)",
 						"dmo-border-y-danger-subdued",
 						"border-top-color: var(--dmo-color-danger-100);",
-						"#fdd6d5"
+						" #fdd6d5"
 					],
 					[
 						"rgb(253, 214, 213)",
 						"dmo-border-s-danger-subdued",
 						"border-inline-start-color: var(--dmo-color-danger-100);",
-						"#fdd6d5"
+						" #fdd6d5"
 					],
 					[
 						"rgb(253, 214, 213)",
 						"dmo-border-e-danger-subdued",
 						"border-inline-end-color: var(--dmo-color-danger-100);",
-						"#fdd6d5"
+						" #fdd6d5"
 					],
 					[
 						"rgb(253, 214, 213)",
 						"dmo-border-t-danger-subdued",
 						"border-top-color: var(--dmo-color-danger-100);",
-						"#fdd6d5"
+						" #fdd6d5"
 					],
 					[
 						"rgb(253, 214, 213)",
 						"dmo-border-r-danger-subdued",
 						"border-right-color: var(--dmo-color-danger-100);",
-						"#fdd6d5"
+						" #fdd6d5"
 					],
 					[
 						"rgb(253, 214, 213)",
 						"dmo-border-b-danger-subdued",
 						"border-bottom-color: var(--dmo-color-danger-100);",
-						"#fdd6d5"
+						" #fdd6d5"
 					],
 					[
 						"rgb(253, 214, 213)",
 						"dmo-border-l-danger-subdued",
 						"border-left-color: var(--dmo-color-danger-100);",
-						"#fdd6d5"
+						" #fdd6d5"
 					],
 					[
 						"rgb(218, 139, 233)",
 						"dmo-border-brand",
 						"border-color: var(--dmo-color-brand-300);",
-						"#da8be9"
+						" #da8be9"
 					],
 					[
 						"rgb(218, 139, 233)",
 						"dmo-border-x-brand",
 						"border-left-color: var(--dmo-color-brand-300);",
-						"#da8be9"
+						" #da8be9"
 					],
 					[
 						"rgb(218, 139, 233)",
 						"dmo-border-y-brand",
 						"border-top-color: var(--dmo-color-brand-300);",
-						"#da8be9"
+						" #da8be9"
 					],
 					[
 						"rgb(218, 139, 233)",
 						"dmo-border-s-brand",
 						"border-inline-start-color: var(--dmo-color-brand-300);",
-						"#da8be9"
+						" #da8be9"
 					],
 					[
 						"rgb(218, 139, 233)",
 						"dmo-border-e-brand",
 						"border-inline-end-color: var(--dmo-color-brand-300);",
-						"#da8be9"
+						" #da8be9"
 					],
 					[
 						"rgb(218, 139, 233)",
 						"dmo-border-t-brand",
 						"border-top-color: var(--dmo-color-brand-300);",
-						"#da8be9"
+						" #da8be9"
 					],
 					[
 						"rgb(218, 139, 233)",
 						"dmo-border-r-brand",
 						"border-right-color: var(--dmo-color-brand-300);",
-						"#da8be9"
+						" #da8be9"
 					],
 					[
 						"rgb(218, 139, 233)",
 						"dmo-border-b-brand",
 						"border-bottom-color: var(--dmo-color-brand-300);",
-						"#da8be9"
+						" #da8be9"
 					],
 					[
 						"rgb(218, 139, 233)",
 						"dmo-border-l-brand",
 						"border-left-color: var(--dmo-color-brand-300);",
-						"#da8be9"
+						" #da8be9"
 					],
 					[
 						"rgb(170, 66, 187)",
 						"dmo-border-brand-accented",
 						"border-color: var(--dmo-color-brand-500);",
-						"#aa42bb"
+						" #aa42bb"
 					],
 					[
 						"rgb(170, 66, 187)",
 						"dmo-border-x-brand-accented",
 						"border-left-color: var(--dmo-color-brand-500);",
-						"#aa42bb"
+						" #aa42bb"
 					],
 					[
 						"rgb(170, 66, 187)",
 						"dmo-border-y-brand-accented",
 						"border-top-color: var(--dmo-color-brand-500);",
-						"#aa42bb"
+						" #aa42bb"
 					],
 					[
 						"rgb(170, 66, 187)",
 						"dmo-border-s-brand-accented",
 						"border-inline-start-color: var(--dmo-color-brand-500);",
-						"#aa42bb"
+						" #aa42bb"
 					],
 					[
 						"rgb(170, 66, 187)",
 						"dmo-border-e-brand-accented",
 						"border-inline-end-color: var(--dmo-color-brand-500);",
-						"#aa42bb"
+						" #aa42bb"
 					],
 					[
 						"rgb(170, 66, 187)",
 						"dmo-border-t-brand-accented",
 						"border-top-color: var(--dmo-color-brand-500);",
-						"#aa42bb"
+						" #aa42bb"
 					],
 					[
 						"rgb(170, 66, 187)",
 						"dmo-border-r-brand-accented",
 						"border-right-color: var(--dmo-color-brand-500);",
-						"#aa42bb"
+						" #aa42bb"
 					],
 					[
 						"rgb(170, 66, 187)",
 						"dmo-border-b-brand-accented",
 						"border-bottom-color: var(--dmo-color-brand-500);",
-						"#aa42bb"
+						" #aa42bb"
 					],
 					[
 						"rgb(170, 66, 187)",
 						"dmo-border-l-brand-accented",
 						"border-left-color: var(--dmo-color-brand-500);",
-						"#aa42bb"
+						" #aa42bb"
 					],
 					[
 						"rgb(241, 215, 247)",
 						"dmo-border-brand-subdued",
 						"border-color: var(--dmo-color-brand-100);",
-						"#f1d7f7"
+						" #f1d7f7"
 					],
 					[
 						"rgb(241, 215, 247)",
 						"dmo-border-x-brand-subdued",
 						"border-left-color: var(--dmo-color-brand-100);",
-						"#f1d7f7"
+						" #f1d7f7"
 					],
 					[
 						"rgb(241, 215, 247)",
 						"dmo-border-y-brand-subdued",
 						"border-top-color: var(--dmo-color-brand-100);",
-						"#f1d7f7"
+						" #f1d7f7"
 					],
 					[
 						"rgb(241, 215, 247)",
 						"dmo-border-s-brand-subdued",
 						"border-inline-start-color: var(--dmo-color-brand-100);",
-						"#f1d7f7"
+						" #f1d7f7"
 					],
 					[
 						"rgb(241, 215, 247)",
 						"dmo-border-e-brand-subdued",
 						"border-inline-end-color: var(--dmo-color-brand-100);",
-						"#f1d7f7"
+						" #f1d7f7"
 					],
 					[
 						"rgb(241, 215, 247)",
 						"dmo-border-t-brand-subdued",
 						"border-top-color: var(--dmo-color-brand-100);",
-						"#f1d7f7"
+						" #f1d7f7"
 					],
 					[
 						"rgb(241, 215, 247)",
 						"dmo-border-r-brand-subdued",
 						"border-right-color: var(--dmo-color-brand-100);",
-						"#f1d7f7"
+						" #f1d7f7"
 					],
 					[
 						"rgb(241, 215, 247)",
 						"dmo-border-b-brand-subdued",
 						"border-bottom-color: var(--dmo-color-brand-100);",
-						"#f1d7f7"
+						" #f1d7f7"
 					],
 					[
 						"rgb(241, 215, 247)",
 						"dmo-border-l-brand-subdued",
 						"border-left-color: var(--dmo-color-brand-100);",
-						"#f1d7f7"
+						" #f1d7f7"
 					],
 					[
 						"rgb(57, 57, 57)",
 						"dmo-border-tooltip",
 						"border-color: var(--dmo-color-neutral-700);",
-						"#393939"
+						" #393939"
 					],
 					[
 						"rgb(57, 57, 57)",
 						"dmo-border-x-tooltip",
 						"border-left-color: var(--dmo-color-neutral-700);",
-						"#393939"
+						" #393939"
 					],
 					[
 						"rgb(57, 57, 57)",
 						"dmo-border-y-tooltip",
 						"border-top-color: var(--dmo-color-neutral-700);",
-						"#393939"
+						" #393939"
 					],
 					[
 						"rgb(57, 57, 57)",
 						"dmo-border-s-tooltip",
 						"border-inline-start-color: var(--dmo-color-neutral-700);",
-						"#393939"
+						" #393939"
 					],
 					[
 						"rgb(57, 57, 57)",
 						"dmo-border-e-tooltip",
 						"border-inline-end-color: var(--dmo-color-neutral-700);",
-						"#393939"
+						" #393939"
 					],
 					[
 						"rgb(57, 57, 57)",
 						"dmo-border-t-tooltip",
 						"border-top-color: var(--dmo-color-neutral-700);",
-						"#393939"
+						" #393939"
 					],
 					[
 						"rgb(57, 57, 57)",
 						"dmo-border-r-tooltip",
 						"border-right-color: var(--dmo-color-neutral-700);",
-						"#393939"
+						" #393939"
 					],
 					[
 						"rgb(57, 57, 57)",
 						"dmo-border-b-tooltip",
 						"border-bottom-color: var(--dmo-color-neutral-700);",
-						"#393939"
+						" #393939"
 					],
 					[
 						"rgb(57, 57, 57)",
 						"dmo-border-l-tooltip",
 						"border-left-color: var(--dmo-color-neutral-700);",
-						"#393939"
+						" #393939"
 					],
 					[
 						"rgb(223, 223, 223)",
 						"dmo-border-tableheader",
 						"border-color: var(--dmo-color-neutral-100);",
-						"#dfdfdf"
+						" #dfdfdf"
 					],
 					[
 						"rgb(223, 223, 223)",
 						"dmo-border-x-tableheader",
 						"border-left-color: var(--dmo-color-neutral-100);",
-						"#dfdfdf"
+						" #dfdfdf"
 					],
 					[
 						"rgb(223, 223, 223)",
 						"dmo-border-y-tableheader",
 						"border-top-color: var(--dmo-color-neutral-100);",
-						"#dfdfdf"
+						" #dfdfdf"
 					],
 					[
 						"rgb(223, 223, 223)",
 						"dmo-border-s-tableheader",
 						"border-inline-start-color: var(--dmo-color-neutral-100);",
-						"#dfdfdf"
+						" #dfdfdf"
 					],
 					[
 						"rgb(223, 223, 223)",
 						"dmo-border-e-tableheader",
 						"border-inline-end-color: var(--dmo-color-neutral-100);",
-						"#dfdfdf"
+						" #dfdfdf"
 					],
 					[
 						"rgb(223, 223, 223)",
 						"dmo-border-t-tableheader",
 						"border-top-color: var(--dmo-color-neutral-100);",
-						"#dfdfdf"
+						" #dfdfdf"
 					],
 					[
 						"rgb(223, 223, 223)",
 						"dmo-border-r-tableheader",
 						"border-right-color: var(--dmo-color-neutral-100);",
-						"#dfdfdf"
+						" #dfdfdf"
 					],
 					[
 						"rgb(223, 223, 223)",
 						"dmo-border-b-tableheader",
 						"border-bottom-color: var(--dmo-color-neutral-100);",
-						"#dfdfdf"
+						" #dfdfdf"
 					],
 					[
 						"rgb(223, 223, 223)",
 						"dmo-border-l-tableheader",
 						"border-left-color: var(--dmo-color-neutral-100);",
-						"#dfdfdf"
+						" #dfdfdf"
 					],
 					[
 						"",
 						"dmo-border-transparent",
 						"border-color: transparent;",
-						"transparent;"
+						" transparent"
 					],
 					[
 						"",
 						"dmo-border-current",
 						"border-color: currentColor;",
-						"currentColor;"
+						" currentColor"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-white",
 						"border-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(0, 0, 0)",
 						"dmo-border-black",
 						"border-color: var(--dmo-color-black);",
-						"#000000"
+						" #000000"
 					],
 					[
 						"",
 						"dmo-border-disabled",
 						"border-color: #bbb;",
-						"#bbb;"
+						" #bbb"
 					],
 					[
 						"",
 						"dmo-border-x-transparent",
 						"border-left-color: transparent;",
-						"transparent;"
+						" transparent"
 					],
 					[
 						"",
 						"dmo-border-x-current",
 						"border-left-color: currentColor;",
-						"currentColor;"
+						" currentColor"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-x-white",
 						"border-left-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(0, 0, 0)",
 						"dmo-border-x-black",
 						"border-left-color: var(--dmo-color-black);",
-						"#000000"
+						" #000000"
 					],
 					[
 						"",
 						"dmo-border-x-disabled",
 						"border-left-color: #bbb;",
-						"#bbb;"
+						" #bbb"
 					],
 					[
 						"",
 						"dmo-border-y-transparent",
 						"border-top-color: transparent;",
-						"transparent;"
+						" transparent"
 					],
 					[
 						"",
 						"dmo-border-y-current",
 						"border-top-color: currentColor;",
-						"currentColor;"
+						" currentColor"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-y-white",
 						"border-top-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(0, 0, 0)",
 						"dmo-border-y-black",
 						"border-top-color: var(--dmo-color-black);",
-						"#000000"
+						" #000000"
 					],
 					[
 						"",
 						"dmo-border-y-disabled",
 						"border-top-color: #bbb;",
-						"#bbb;"
+						" #bbb"
 					],
 					[
 						"",
 						"dmo-border-s-transparent",
 						"border-inline-start-color: transparent;",
-						"transparent;"
+						" transparent"
 					],
 					[
 						"",
 						"dmo-border-s-current",
 						"border-inline-start-color: currentColor;",
-						"currentColor;"
+						" currentColor"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-s-white",
 						"border-inline-start-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(0, 0, 0)",
 						"dmo-border-s-black",
 						"border-inline-start-color: var(--dmo-color-black);",
-						"#000000"
+						" #000000"
 					],
 					[
 						"",
 						"dmo-border-s-disabled",
 						"border-inline-start-color: #bbb;",
-						"#bbb;"
+						" #bbb"
 					],
 					[
 						"",
 						"dmo-border-e-transparent",
 						"border-inline-end-color: transparent;",
-						"transparent;"
+						" transparent"
 					],
 					[
 						"",
 						"dmo-border-e-current",
 						"border-inline-end-color: currentColor;",
-						"currentColor;"
+						" currentColor"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-e-white",
 						"border-inline-end-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(0, 0, 0)",
 						"dmo-border-e-black",
 						"border-inline-end-color: var(--dmo-color-black);",
-						"#000000"
+						" #000000"
 					],
 					[
 						"",
 						"dmo-border-e-disabled",
 						"border-inline-end-color: #bbb;",
-						"#bbb;"
+						" #bbb"
 					],
 					[
 						"",
 						"dmo-border-t-transparent",
 						"border-top-color: transparent;",
-						"transparent;"
+						" transparent"
 					],
 					[
 						"",
 						"dmo-border-t-current",
 						"border-top-color: currentColor;",
-						"currentColor;"
+						" currentColor"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-t-white",
 						"border-top-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(0, 0, 0)",
 						"dmo-border-t-black",
 						"border-top-color: var(--dmo-color-black);",
-						"#000000"
+						" #000000"
 					],
 					[
 						"",
 						"dmo-border-t-disabled",
 						"border-top-color: #bbb;",
-						"#bbb;"
+						" #bbb"
 					],
 					[
 						"",
 						"dmo-border-r-transparent",
 						"border-right-color: transparent;",
-						"transparent;"
+						" transparent"
 					],
 					[
 						"",
 						"dmo-border-r-current",
 						"border-right-color: currentColor;",
-						"currentColor;"
+						" currentColor"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-r-white",
 						"border-right-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(0, 0, 0)",
 						"dmo-border-r-black",
 						"border-right-color: var(--dmo-color-black);",
-						"#000000"
+						" #000000"
 					],
 					[
 						"",
 						"dmo-border-r-disabled",
 						"border-right-color: #bbb;",
-						"#bbb;"
+						" #bbb"
 					],
 					[
 						"",
 						"dmo-border-b-transparent",
 						"border-bottom-color: transparent;",
-						"transparent;"
+						" transparent"
 					],
 					[
 						"",
 						"dmo-border-b-current",
 						"border-bottom-color: currentColor;",
-						"currentColor;"
+						" currentColor"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-b-white",
 						"border-bottom-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(0, 0, 0)",
 						"dmo-border-b-black",
 						"border-bottom-color: var(--dmo-color-black);",
-						"#000000"
+						" #000000"
 					],
 					[
 						"",
 						"dmo-border-b-disabled",
 						"border-bottom-color: #bbb;",
-						"#bbb;"
+						" #bbb"
 					],
 					[
 						"",
 						"dmo-border-l-transparent",
 						"border-left-color: transparent;",
-						"transparent;"
+						" transparent"
 					],
 					[
 						"",
 						"dmo-border-l-current",
 						"border-left-color: currentColor;",
-						"currentColor;"
+						" currentColor"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-border-l-white",
 						"border-left-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(0, 0, 0)",
 						"dmo-border-l-black",
 						"border-left-color: var(--dmo-color-black);",
-						"#000000"
+						" #000000"
 					],
 					[
 						"",
 						"dmo-border-l-disabled",
 						"border-left-color: #bbb;",
-						"#bbb;"
+						" #bbb"
 					]
 				]
 			},
@@ -10986,31 +10986,31 @@
 						"",
 						"dmo-divide-transparent",
 						"border-color: transparent;",
-						"transparent;"
+						" transparent"
 					],
 					[
 						"",
 						"dmo-divide-current",
 						"border-color: currentColor;",
-						"currentColor;"
+						" currentColor"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-divide-white",
 						"border-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(0, 0, 0)",
 						"dmo-divide-black",
 						"border-color: var(--dmo-color-black);",
-						"#000000"
+						" #000000"
 					],
 					[
 						"",
 						"dmo-divide-disabled",
 						"border-color: #bbb;",
-						"#bbb;"
+						" #bbb"
 					]
 				]
 			},
@@ -12331,6 +12331,10 @@
 						"font-family: NotoSans, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";"
 					],
 					[
+						"dmo-font-serif",
+						"font-family: ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif;"
+					],
+					[
 						"dmo-font-mono",
 						"font-family: Roboto, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";"
 					],
@@ -12621,205 +12625,205 @@
 						"rgb(115, 2, 213)",
 						"dmo-text-link",
 						"color: var(--dmo-color-primary-600);",
-						"#7302d5"
+						" #7302d5"
 					],
 					[
 						"rgb(0, 0, 0)",
 						"dmo-text-contrast",
 						"color: var(--dmo-color-black);",
-						"#000000"
+						" #000000"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-text-inverse",
 						"color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(82, 82, 82)",
 						"dmo-text-neutral",
 						"color: var(--dmo-color-neutral-600);",
-						"#525252"
+						" #525252"
 					],
 					[
 						"rgb(38, 38, 38)",
 						"dmo-text-neutral-accented",
 						"color: var(--dmo-color-neutral-800);",
-						"#262626"
+						" #262626"
 					],
 					[
 						"rgb(142, 142, 142)",
 						"dmo-text-neutral-subdued",
 						"color: var(--dmo-color-neutral-400);",
-						"#8e8e8e"
+						" #8e8e8e"
 					],
 					[
 						"rgb(115, 2, 213)",
 						"dmo-text-primary",
 						"color: var(--dmo-color-primary-600);",
-						"#7302d5"
+						" #7302d5"
 					],
 					[
 						"rgb(55, 0, 108)",
 						"dmo-text-primary-accented",
 						"color: var(--dmo-color-primary-800);",
-						"#37006c"
+						" #37006c"
 					],
 					[
 						"rgb(165, 113, 255)",
 						"dmo-text-primary-subdued",
 						"color: var(--dmo-color-primary-400);",
-						"#a571ff"
+						" #a571ff"
 					],
 					[
 						"rgb(0, 91, 101)",
 						"dmo-text-info",
 						"color: var(--dmo-color-info-600);",
-						"#005b65"
+						" #005b65"
 					],
 					[
 						"rgb(0, 43, 48)",
 						"dmo-text-info-accented",
 						"color: var(--dmo-color-info-800);",
-						"#002b30"
+						" #002b30"
 					],
 					[
 						"rgb(0, 157, 172)",
 						"dmo-text-info-subdued",
 						"color: var(--dmo-color-info-400);",
-						"#009dac"
+						" #009dac"
 					],
 					[
 						"rgb(65, 90, 35)",
 						"dmo-text-success",
 						"color: var(--dmo-color-success-600);",
-						"#415a23"
+						" #415a23"
 					],
 					[
 						"rgb(28, 42, 12)",
 						"dmo-text-success-accented",
 						"color: var(--dmo-color-success-800);",
-						"#1c2a0c"
+						" #1c2a0c"
 					],
 					[
 						"rgb(111, 155, 49)",
 						"dmo-text-success-subdued",
 						"color: var(--dmo-color-success-400);",
-						"#6f9b31"
+						" #6f9b31"
 					],
 					[
 						"rgb(124, 69, 0)",
 						"dmo-text-warning",
 						"color: var(--dmo-color-warning-600);",
-						"#7c4500"
+						" #7c4500"
 					],
 					[
 						"rgb(57, 33, 0)",
 						"dmo-text-warning-accented",
 						"color: var(--dmo-color-warning-800);",
-						"#392100"
+						" #392100"
 					],
 					[
 						"rgb(197, 127, 0)",
 						"dmo-text-warning-subdued",
 						"color: var(--dmo-color-warning-400);",
-						"#c57f00"
+						" #c57f00"
 					],
 					[
 						"rgb(150, 45, 35)",
 						"dmo-text-danger",
 						"color: var(--dmo-color-danger-600);",
-						"#962d23"
+						" #962d23"
 					],
 					[
 						"rgb(74, 18, 12)",
 						"dmo-text-danger-accented",
 						"color: var(--dmo-color-danger-800);",
-						"#4a120c"
+						" #4a120c"
 					],
 					[
 						"rgb(237, 96, 86)",
 						"dmo-text-danger-subdued",
 						"color: var(--dmo-color-danger-400);",
-						"#ed6056"
+						" #ed6056"
 					],
 					[
 						"rgb(127, 47, 140)",
 						"dmo-text-brand",
 						"color: var(--dmo-color-brand-600);",
-						"#7f2f8c"
+						" #7f2f8c"
 					],
 					[
 						"rgb(62, 19, 69)",
 						"dmo-text-brand-accented",
 						"color: var(--dmo-color-brand-800);",
-						"#3e1345"
+						" #3e1345"
 					],
 					[
 						"rgb(207, 95, 226)",
 						"dmo-text-brand-subdued",
 						"color: var(--dmo-color-brand-400);",
-						"#cf5fe2"
+						" #cf5fe2"
 					],
 					[
 						"rgb(0, 0, 0)",
 						"dmo-text-bothblack",
 						"color: var(--dmo-color-black);",
-						"#000000"
+						" #000000"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-text-bothwhite",
 						"color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"",
 						"dmo-text-transparent",
 						"color: transparent;",
-						"transparent;"
+						" transparent"
 					],
 					[
 						"",
 						"dmo-text-current",
 						"color: currentColor;",
-						"currentColor;"
+						" currentColor"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-text-white",
 						"color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(0, 0, 0)",
 						"dmo-text-black",
 						"color: var(--dmo-color-black);",
-						"#000000"
+						" #000000"
 					],
 					[
 						"",
 						"dmo-text-imt-primary",
 						"color: var(--primary-color);",
-						"var(--primary-color);"
+						" var(--primary-color)"
 					],
 					[
 						"",
 						"dmo-text-imt-secondary",
 						"color: var(--secondary-color);",
-						"var(--secondary-color);"
+						" var(--secondary-color)"
 					],
 					[
 						"",
 						"dmo-text-imt-secondary-dark",
 						"color: var(--secondary-color);",
-						"var(--secondary-color);"
+						" var(--secondary-color)"
 					],
 					[
 						"",
 						"dmo-text-disabled",
 						"color: #bbb;",
-						"#bbb;"
+						" #bbb"
 					]
 				]
 			},
@@ -13368,391 +13372,463 @@
 						"",
 						"dmo-bg-transparent",
 						"background-color: transparent;",
-						"transparent;"
+						" transparent"
 					],
 					[
 						"",
 						"dmo-bg-current",
 						"background-color: currentColor;",
-						"currentColor;"
+						" currentColor"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-bg-white",
 						"background-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(0, 0, 0)",
 						"dmo-bg-black",
 						"background-color: var(--dmo-color-black);",
-						"#000000"
+						" #000000"
 					],
 					[
 						"",
 						"dmo-bg-disabled",
 						"background-color: #bbb;",
-						"#bbb;"
+						" #bbb"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-bg-select",
 						"background-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-bg-select-hover",
 						"background-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(245, 242, 255)",
 						"dmo-bg-select-selected",
 						"background-color: var(--dmo-color-primary-50);",
-						"#f5f2ff"
+						" #f5f2ff"
 					],
 					[
 						"rgb(229, 218, 255)",
 						"dmo-bg-select-selectedhover",
 						"background-color: var(--dmo-color-primary-100);",
-						"#e5daff"
+						" #e5daff"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-bg-canvas",
 						"background-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-bg-dialog",
 						"background-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-bg-contrast",
 						"background-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(208, 188, 255)",
 						"dmo-bg-dialogheader",
 						"background-color: var(--dmo-color-primary-200);",
-						"#d0bcff"
+						" #d0bcff"
 					],
 					[
 						"rgb(255, 255, 255)",
 						"dmo-bg-tablerow",
 						"background-color: var(--dmo-color-white);",
-						"#ffffff"
+						" #ffffff"
 					],
 					[
 						"rgb(223, 223, 223)",
 						"dmo-bg-static-neutral",
 						"background-color: var(--dmo-color-neutral-100);",
-						"#dfdfdf"
+						" #dfdfdf"
 					],
 					[
 						"rgb(198, 198, 198)",
 						"dmo-bg-static-neutral-accented",
 						"background-color: var(--dmo-color-neutral-200);",
-						"#c6c6c6"
+						" #c6c6c6"
 					],
 					[
 						"rgb(246, 246, 246)",
 						"dmo-bg-static-neutral-subdued",
 						"background-color: var(--dmo-color-neutral-50);",
-						"#f6f6f6"
+						" #f6f6f6"
 					],
 					[
 						"rgb(229, 218, 255)",
 						"dmo-bg-static-primary",
 						"background-color: var(--dmo-color-primary-100);",
-						"#e5daff"
+						" #e5daff"
 					],
 					[
 						"rgb(208, 188, 255)",
 						"dmo-bg-static-primary-accented",
 						"background-color: var(--dmo-color-primary-200);",
-						"#d0bcff"
+						" #d0bcff"
 					],
 					[
 						"rgb(245, 242, 255)",
 						"dmo-bg-static-primary-subdued",
 						"background-color: var(--dmo-color-primary-50);",
-						"#f5f2ff"
+						" #f5f2ff"
 					],
 					[
 						"rgb(241, 215, 247)",
 						"dmo-bg-static-brand",
 						"background-color: var(--dmo-color-brand-100);",
-						"#f1d7f7"
+						" #f1d7f7"
 					],
 					[
 						"rgb(230, 182, 241)",
 						"dmo-bg-static-brand-accented",
 						"background-color: var(--dmo-color-brand-200);",
-						"#e6b6f1"
+						" #e6b6f1"
 					],
 					[
 						"rgb(252, 240, 254)",
 						"dmo-bg-static-brand-subdued",
 						"background-color: var(--dmo-color-brand-50);",
-						"#fcf0fe"
+						" #fcf0fe"
 					],
 					[
 						"rgb(150, 238, 252)",
 						"dmo-bg-static-info",
 						"background-color: var(--dmo-color-info-100);",
-						"#96eefc"
+						" #96eefc"
 					],
 					[
 						"rgb(89, 216, 234)",
 						"dmo-bg-static-info-accented",
 						"background-color: var(--dmo-color-info-200);",
-						"#59d8ea"
+						" #59d8ea"
 					],
 					[
 						"rgb(222, 248, 255)",
 						"dmo-bg-static-info-subdued",
 						"background-color: var(--dmo-color-info-50);",
-						"#def8ff"
+						" #def8ff"
 					],
 					[
 						"rgb(189, 239, 132)",
 						"dmo-bg-static-success",
 						"background-color: var(--dmo-color-success-100);",
-						"#bdef84"
+						" #bdef84"
 					],
 					[
 						"rgb(162, 214, 102)",
 						"dmo-bg-static-success-accented",
 						"background-color: var(--dmo-color-success-200);",
-						"#a2d666"
+						" #a2d666"
 					],
 					[
 						"rgb(225, 252, 202)",
 						"dmo-bg-static-success-subdued",
 						"background-color: var(--dmo-color-success-50);",
-						"#e1fcca"
+						" #e1fcca"
 					],
 					[
 						"rgb(250, 223, 107)",
 						"dmo-bg-static-warning",
 						"background-color: var(--dmo-color-warning-100);",
-						"#fadf6b"
+						" #fadf6b"
 					],
 					[
 						"rgb(242, 191, 70)",
 						"dmo-bg-static-warning-accented",
 						"background-color: var(--dmo-color-warning-200);",
-						"#f2bf46"
+						" #f2bf46"
 					],
 					[
 						"rgb(255, 246, 174)",
 						"dmo-bg-static-warning-subdued",
 						"background-color: var(--dmo-color-warning-50);",
-						"#fff6ae"
+						" #fff6ae"
 					],
 					[
 						"rgb(253, 214, 213)",
 						"dmo-bg-static-danger",
 						"background-color: var(--dmo-color-danger-100);",
-						"#fdd6d5"
+						" #fdd6d5"
 					],
 					[
 						"rgb(252, 181, 177)",
 						"dmo-bg-static-danger-accented",
 						"background-color: var(--dmo-color-danger-200);",
-						"#fcb5b1"
+						" #fcb5b1"
 					],
 					[
 						"rgb(254, 240, 240)",
 						"dmo-bg-static-danger-subdued",
 						"background-color: var(--dmo-color-danger-50);",
-						"#fef0f0"
+						" #fef0f0"
 					],
 					[
 						"rgb(223, 223, 223)",
 						"dmo-bg-active-neutral",
 						"background-color: var(--dmo-color-neutral-100);",
-						"#dfdfdf"
+						" #dfdfdf"
 					],
 					[
 						"rgb(198, 198, 198)",
 						"dmo-bg-active-neutral-hover",
 						"background-color: var(--dmo-color-neutral-200);",
-						"#c6c6c6"
+						" #c6c6c6"
 					],
 					[
 						"rgb(168, 168, 168)",
 						"dmo-bg-active-neutral-active",
 						"background-color: var(--dmo-color-neutral-300);",
-						"#a8a8a8"
+						" #a8a8a8"
 					],
 					[
 						"rgb(223, 223, 223)",
 						"dmo-bg-active-neutral-disabled",
 						"background-color: var(--dmo-color-neutral-100);",
-						"#dfdfdf"
+						" #dfdfdf"
 					],
 					[
 						"rgb(165, 113, 255)",
 						"dmo-bg-active-primary",
 						"background-color: var(--dmo-color-primary-400);",
-						"#a571ff"
+						" #a571ff"
 					],
 					[
 						"rgb(145, 56, 254)",
 						"dmo-bg-active-primary-hover",
 						"background-color: var(--dmo-color-primary-500);",
-						"#9138fe"
+						" #9138fe"
 					],
 					[
 						"rgb(115, 2, 213)",
 						"dmo-bg-active-primary-active",
 						"background-color: var(--dmo-color-primary-600);",
-						"#7302d5"
+						" #7302d5"
 					],
 					[
 						"rgb(229, 218, 255)",
 						"dmo-bg-active-primary-disabled",
 						"background-color: var(--dmo-color-primary-100);",
-						"#e5daff"
+						" #e5daff"
 					],
 					[
 						"rgb(0, 157, 172)",
 						"dmo-bg-active-info",
 						"background-color: var(--dmo-color-info-400);",
-						"#009dac"
+						" #009dac"
 					],
 					[
 						"rgb(0, 123, 136)",
 						"dmo-bg-active-info-hover",
 						"background-color: var(--dmo-color-info-500);",
-						"#007b88"
+						" #007b88"
 					],
 					[
 						"rgb(0, 91, 101)",
 						"dmo-bg-active-info-active",
 						"background-color: var(--dmo-color-info-600);",
-						"#005b65"
+						" #005b65"
 					],
 					[
 						"rgb(150, 238, 252)",
 						"dmo-bg-active-info-disabled",
 						"background-color: var(--dmo-color-info-100);",
-						"#96eefc"
+						" #96eefc"
 					],
 					[
 						"rgb(111, 155, 49)",
 						"dmo-bg-active-success",
 						"background-color: var(--dmo-color-success-400);",
-						"#6f9b31"
+						" #6f9b31"
 					],
 					[
 						"rgb(89, 121, 49)",
 						"dmo-bg-active-success-hover",
 						"background-color: var(--dmo-color-success-500);",
-						"#597931"
+						" #597931"
 					],
 					[
 						"rgb(65, 90, 35)",
 						"dmo-bg-active-success-active",
 						"background-color: var(--dmo-color-success-600);",
-						"#415a23"
+						" #415a23"
 					],
 					[
 						"rgb(189, 239, 132)",
 						"dmo-bg-active-success-disabled",
 						"background-color: var(--dmo-color-success-100);",
-						"#bdef84"
+						" #bdef84"
 					],
 					[
 						"rgb(242, 191, 70)",
 						"dmo-bg-active-warning",
 						"background-color: var(--dmo-color-warning-200);",
-						"#f2bf46"
+						" #f2bf46"
 					],
 					[
 						"rgb(215, 158, 58)",
 						"dmo-bg-active-warning-hover",
 						"background-color: var(--dmo-color-warning-300);",
-						"#d79e3a"
+						" #d79e3a"
 					],
 					[
 						"rgb(197, 127, 0)",
 						"dmo-bg-active-warning-active",
 						"background-color: var(--dmo-color-warning-400);",
-						"#c57f00"
+						" #c57f00"
 					],
 					[
 						"rgb(250, 223, 107)",
 						"dmo-bg-active-warning-disabled",
 						"background-color: var(--dmo-color-warning-100);",
-						"#fadf6b"
+						" #fadf6b"
 					],
 					[
 						"rgb(237, 96, 86)",
 						"dmo-bg-active-danger",
 						"background-color: var(--dmo-color-danger-400);",
-						"#ed6056"
+						" #ed6056"
 					],
 					[
 						"rgb(200, 63, 50)",
 						"dmo-bg-active-danger-hover",
 						"background-color: var(--dmo-color-danger-500);",
-						"#c83f32"
+						" #c83f32"
 					],
 					[
 						"rgb(150, 45, 35)",
 						"dmo-bg-active-danger-active",
 						"background-color: var(--dmo-color-danger-600);",
-						"#962d23"
+						" #962d23"
 					],
 					[
 						"rgb(253, 214, 213)",
 						"dmo-bg-active-danger-disabled",
 						"background-color: var(--dmo-color-danger-100);",
-						"#fdd6d5"
+						" #fdd6d5"
 					],
 					[
 						"rgb(207, 95, 226)",
 						"dmo-bg-active-brand",
 						"background-color: var(--dmo-color-brand-400);",
-						"#cf5fe2"
+						" #cf5fe2"
 					],
 					[
 						"rgb(170, 66, 187)",
 						"dmo-bg-active-brand-hover",
 						"background-color: var(--dmo-color-brand-500);",
-						"#aa42bb"
+						" #aa42bb"
 					],
 					[
 						"rgb(127, 47, 140)",
 						"dmo-bg-active-brand-active",
 						"background-color: var(--dmo-color-brand-600);",
-						"#7f2f8c"
+						" #7f2f8c"
 					],
 					[
 						"rgb(241, 215, 247)",
 						"dmo-bg-active-brand-disabled",
 						"background-color: var(--dmo-color-brand-100);",
-						"#f1d7f7"
+						" #f1d7f7"
+					],
+					[
+						"rgba(0,0,0,0.04)",
+						"dmo-bg-opacity-10",
+						"background-color: rgba(0,0,0,0.04);",
+						" rgba(0,0,0,0.04)"
+					],
+					[
+						"rgba(0,0,0,0.08)",
+						"dmo-bg-opacity-20",
+						"background-color: rgba(0,0,0,0.08);",
+						" rgba(0,0,0,0.08)"
+					],
+					[
+						"rgba(0,0,0,0.16)",
+						"dmo-bg-opacity-30",
+						"background-color: rgba(0,0,0,0.16);",
+						" rgba(0,0,0,0.16)"
+					],
+					[
+						"rgba(0,0,0,0.32)",
+						"dmo-bg-opacity-40",
+						"background-color: rgba(0,0,0,0.32);",
+						" rgba(0,0,0,0.32)"
+					],
+					[
+						"rgba(0,0,0,0.64)",
+						"dmo-bg-opacity-50",
+						"background-color: rgba(0,0,0,0.64);",
+						" rgba(0,0,0,0.64)"
+					],
+					[
+						"rgba(0,0,0,0.8)",
+						"dmo-bg-opacity-60",
+						"background-color: rgba(0,0,0,0.8);",
+						" rgba(0,0,0,0.8)"
 					],
 					[
 						"rgb(57, 57, 57)",
 						"dmo-bg-tooltip",
 						"background-color: var(--dmo-color-neutral-700);",
-						"#393939"
+						" #393939"
 					],
 					[
 						"rgb(223, 223, 223)",
 						"dmo-bg-tableheader",
 						"background-color: var(--dmo-color-neutral-100);",
-						"#dfdfdf"
+						" #dfdfdf"
+					],
+					[
+						"rgba(255,255,255,0.04)",
+						"dmo-bg-opacity-inverse-10",
+						"background-color: rgba(255,255,255,0.04);",
+						" rgba(255,255,255,0.04)"
+					],
+					[
+						"rgba(255,255,255,0.08)",
+						"dmo-bg-opacity-inverse-20",
+						"background-color: rgba(255,255,255,0.08);",
+						" rgba(255,255,255,0.08)"
+					],
+					[
+						"rgba(255,255,255,0.16)",
+						"dmo-bg-opacity-inverse-30",
+						"background-color: rgba(255,255,255,0.16);",
+						" rgba(255,255,255,0.16)"
+					],
+					[
+						"rgba(255,255,255,0.32)",
+						"dmo-bg-opacity-inverse-40",
+						"background-color: rgba(255,255,255,0.32);",
+						" rgba(255,255,255,0.32)"
+					],
+					[
+						"rgba(255,255,255,0.64)",
+						"dmo-bg-opacity-inverse-50",
+						"background-color: rgba(255,255,255,0.64);",
+						" rgba(255,255,255,0.64)"
+					],
+					[
+						"rgba(255,255,255,0.8)",
+						"dmo-bg-opacity-inverse-60",
+						"background-color: rgba(255,255,255,0.8);",
+						" rgba(255,255,255,0.8)"
 					]
 				]
 			},

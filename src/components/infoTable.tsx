@@ -8,7 +8,7 @@ const InfoTable = ({ table } : { table : string[][] }) => {
     const [toastText, setToastText] = useState("");
 
     const parseText = (text: string): any => {
-        if(text.includes("rgb(") || text === "transparent")
+        if(/^rgba?\(/.test(text) || text === "transparent")
         {
             return <div className="w-6 h-6 border rounded" style={{backgroundColor: text}}></div>
         }
