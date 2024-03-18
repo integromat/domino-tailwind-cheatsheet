@@ -66,7 +66,7 @@ const Home =  () => {
     };
 
     return (
-        <main className={"tracking-wide font-roboto min-h-screen grid content-start bg-white dark:bg-gray-900"}>
+        <main className={"tracking-wide font-roboto min-h-screen grid content-start"}>
             <SearchBar searchFilter={search} />
             <Tagline />
             <Categories cheatsheet={cheatsheet} />

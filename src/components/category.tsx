@@ -47,15 +47,15 @@ const Category = ({ category }: { category: CategoryType }) => {
   return (
     <div
       className={
-        "rounded-md bg-gray-200 dark:bg-gray-800 pt-4 m-2 overflow-hidden"
+        "rounded-md bg-gray-200 dark:bg-neutral-800 pt-4 m-2 overflow-hidden"
       }
     >
       <div
         className={
-          "flex justify-center items-center font-bold text-gray-800 dark:bg-gray-700 dark:text-gray-00 tracking-wider bg-gray-300 rounded-md px-3 py-2 mx-3 mb-2"
+          "flex justify-center items-center font-bold text-gray-800 dark:bg-neutral-700 dark:text-gray-00 tracking-wider bg-gray-300 rounded-md px-3 py-2 mx-3 mb-2"
         }
       >
-        <h1 className={"grow "}>{category.title}</h1>
+        <h1 className={"grow dark:text-white"}>{category.title}</h1>
         <ArrowDown action={toggle} value={isOpen} />
       </div>
       {

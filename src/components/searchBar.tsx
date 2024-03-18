@@ -61,7 +61,7 @@ const SearchBar = ({ searchFilter }: { searchFilter : ( text:string ) => void })
     }
 
     return (
-        <div className="bg-white border-b dark:bg-gray-900 dark:border-gray-700 lg:fixed lg:w-full lg:top-0 lg:z-50 lg:left-0">
+        <div className="border-b bg-neutral-50 dark:bg-neutral-900 dark:border-gray-700 lg:fixed lg:w-full lg:top-0 lg:z-50 lg:left-0">
             <div className="container p-4 mx-auto">
                 <div className="flex flex-col lg:items-center lg:justify-center lg:flex-row lg:space-x-4">
 
@@ -69,7 +69,7 @@ const SearchBar = ({ searchFilter }: { searchFilter : ( text:string ) => void })
                     <div className="relative h-10 mt-4 sm:w-96 xl:w-80 2xl:w-96 sm:mx-auto lg:m-0">
                         <input
                             ref={searchInputRef}
-                            className="w-full h-full text-gray-700 bg-white border border-gray-200 rounded-lg peer dark:bg-gray-900 dark:text-gray-300 dark:border-gray-600 focus:border-primary dark:focus:border-primary focus:outline-none focus:ring focus:ring-primary dark:placeholder-gray-400 focus:ring-opacity-20"
+                            className="w-full h-full text-gray-700 border border-gray-200 rounded-lg peer dark:bg-neutral-900 dark:text-gray-300 dark:border-gray-600 focus:border-primary dark:focus:border-primary focus:outline-none focus:ring focus:ring-primary dark:placeholder-gray-400 focus:ring-opacity-20"
                             type="text"
                             placeholder="Search"
                             onChange={search}

@@ -15,7 +15,7 @@ const InfoTable = ({ table } : { table : string[][] }) => {
 
         if(text === "current color")
         {
-            return <div className="w-6 h-6 bg-white border rounded"></div>
+            return <div className="w-6 h-6 border rounded"></div>
         }
 
         return text.split('\n').map((subtext,index) => <p key={index}>{subtext}</p>);
@@ -32,7 +32,7 @@ const InfoTable = ({ table } : { table : string[][] }) => {
     return (
         <>
             {showToast && <Toast text={toastText} /> }
-            <table className="w-full mb-4 bg-gray-100 rounded dark:bg-gray-900">
+            <table className="w-full mb-4 bg-gray-100 rounded dark:bg-neutral-800">
                 <tbody>
                 {
                     table.map((tr: string[], index: Number) => {

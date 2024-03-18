@@ -43,7 +43,7 @@ const Subcategory = ({ subcategory,shouldHide }: { subcategory : SubcategoryType
                   Docs
                 </a>
             </div>
-            <div className={classNames('bg-gray-200 dark:bg-gray-700 px-4 overflow-hidden', {
+            <div className={classNames('bg-gray-300 dark:bg-neutral-700 px-4 overflow-hidden', {
                 'hidden': !isVisible
             })}>
                 <p className="my-3 font-semibold leading-tight text-gray-800 dark:text-gray-200">{subcategory.description}</p>
