@@ -14,9 +14,10 @@ const Home =  () => {
     const [cheatsheet, setCheatsheet] = useState<Category[]>(json);
 
     useEffect(() => {
-        const source = document.querySelector('tw-cheatsheet')?.getAttribute('data-source');
+        const el = document.querySelector('tw-cheatsheet');
+        const source = el?.getAttribute('data-source');
         if (!source) {
-            throw new Error('[data-source] is missing on "tw-cheatsheet" element')
+            throw new Error('[data-source] is missing on "tw-cheatsheet" element');
         }
         fetch(source)
             .then((res) => res.json())
