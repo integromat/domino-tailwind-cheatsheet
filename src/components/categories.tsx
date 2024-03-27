@@ -7,11 +7,9 @@ const Categories = ({ cheatsheet } : { cheatsheet: Category[] }) => {
     return (
         <Masonry
             breakpointCols={{
-                default: 4,
-                1280: 3,
-                1024: 2,
-                768: 2,
-                640: 1
+                default: 3,
+                1600: 2,
+                1024: 1,
             }}
             className="flex flex-wrap w-full p-4 mx-auto mt-4 "
             columnClassName="w-auto">

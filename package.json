@@ -1,6 +1,6 @@
 {
     "name": "@integromat/tailwind-cheatsheet",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "private": true,
     "dependencies": {
         "@babel/compat-data": "^7.16.4",

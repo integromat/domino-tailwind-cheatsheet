@@ -42,6 +42,7 @@ const InfoTable = ({ table } : { table : string[][] }) => {
                                 className={"border-b border-gray-300 dark:border-gray-700"}>
                                 {
                                     tr.map((td: string, index: Number) => {
+                                        const tdIndex =  (i: number) => tr.length === 4 ? i + 1 : i;
                                         return (
                                             <td
                                                 onClick={async () => {
@@ -52,9 +53,9 @@ const InfoTable = ({ table } : { table : string[][] }) => {
                                                 }}
                                                 key={'td-' + index}
                                                 className={classNames('cursor-copy font-mono text-xs hover:underline p-2', {
-                                                    'text-purple-700 dark:text-purple-300 whitespace-nowrap': index === 0,
-                                                    'text-blue-700 dark:text-blue-300': index === 1,
-                                                    'text-gray-500 dark:text-gray-300 text-xs': index === 2,
+                                                    'text-purple-700 dark:text-purple-300 whitespace-nowrap': index === tdIndex(0),
+                                                    'text-blue-700 dark:text-blue-300': index ===  tdIndex(1),
+                                                    'text-gray-500 dark:text-gray-300 text-xs': index ===  tdIndex(2),
                                                 })}>{parseText(td)}</td>
                                         );
                                     })
