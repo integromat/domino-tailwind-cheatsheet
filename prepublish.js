@@ -1,5 +1,8 @@
-const { copyFileSync, mkdirSync, existsSync, rmSync, readdirSync } = require('fs');
+const { copyFileSync, mkdirSync, existsSync, rmSync, readdirSync, readFileSync, writeFileSync } = require('fs');
 const { join } = require('path');
+const { version } = require('./package.json');
+
+const PACKAGE_FOR_BUILD = join('package', 'package.json');
 
 if (existsSync('dist')) {
     rmSync('dist', {recursive: true});
@@ -15,6 +18,10 @@ function copyFromBuild(filePath) {
         )
     }
 }
+
+const pkgPackage = JSON.parse(readFileSync(PACKAGE_FOR_BUILD, 'utf8'));
+pkgPackage.version = version;
+writeFileSync(PACKAGE_FOR_BUILD, JSON.stringify(pkgPackage, null, 2));
 
 copyFileSync(join('package', 'package.json'), join('dist', 'package.json'));
 copyFileSync(join('package', 'README.md'), join('dist', 'README.md'));

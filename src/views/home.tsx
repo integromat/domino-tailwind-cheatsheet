@@ -8,10 +8,14 @@ import Categories from '../components/categories';
 import Footer from '../components/footer';
 import Tagline from '../components/tagline';
 
-let json: Category[] = [];
+interface CheatSheetData { layers: any, data: Category[] }
+
+let json: CheatSheetData = { layers: null, data: [] };
 
 const Home =  () => {
-    const [cheatsheet, setCheatsheet] = useState<Category[]>(json);
+    const [cheatsheet, setCheatsheet] = useState<CheatSheetData['data']>(
+        json.data
+    );
 
     useEffect(() => {
         const el = document.querySelector('tw-cheatsheet');
@@ -23,15 +27,19 @@ const Home =  () => {
             .then((res) => res.json())
             .then((data) => {
                 json = JSON.parse(JSON.stringify(data));
-                setCheatsheet(data);
+                setCheatsheet(json.data);
             });
     }, []);
 
     const search = (text: string) => {
-        let newCheatsheet: Category[] = json.map((category: Category) => {
+        let newCheatsheet: Category[] = json.data.map((category: Category) => {
             if (category.title.toLowerCase().includes(text)) {
                 return category;
             } else {
+                const layer = json.layers[text.trim().toLowerCase()];
+                if (layer) {
+                    text = layer;
+                }
                 return {
                     title: category.title,
                     content: category.content.map((subcategory: Subcategory) => {
@@ -62,7 +70,6 @@ const Home =  () => {
                 }
             };
         });
-
         setCheatsheet(newCheatsheet);
     };
 
