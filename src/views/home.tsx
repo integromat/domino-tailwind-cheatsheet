@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback, useMemo } from 'react';
 
 import Category from '../modules/models/category';
 import Subcategory from '../modules/models/subcategory';
@@ -7,6 +7,7 @@ import SearchBar from '../components/searchBar';
 import Categories from '../components/categories';
 import Footer from '../components/footer';
 import Tagline from '../components/tagline';
+import { LayersContext } from '../utils/layers.context';
 
 interface CheatSheetData { layers: any, data: Category[] }
 
@@ -32,14 +33,20 @@ const Home =  () => {
     }, []);
 
     const search = (text: string) => {
+        const normSearchText = text.trim().toLowerCase();
+        let shortLayerNames = normSearchText
+            ? Object.keys(json.layers).filter(layerName => layerName.includes(normSearchText)).map(layerName => json.layers[layerName])
+            : null;
+
+        if (normSearchText && shortLayerNames?.length === 0) {
+            shortLayerNames = Object.values<string[]>(json.layers).filter(layerAbbr => layerAbbr.includes(normSearchText))
+        }
+
         let newCheatsheet: Category[] = json.data.map((category: Category) => {
             if (category.title.toLowerCase().includes(text)) {
                 return category;
             } else {
-                const layer = json.layers[text.trim().toLowerCase()];
-                if (layer) {
-                    text = layer;
-                }
+
                 return {
                     title: category.title,
                     content: category.content.map((subcategory: Subcategory) => {
@@ -56,6 +63,10 @@ const Home =  () => {
                                 docs: subcategory.docs,
                                 description: subcategory.description,
                                 table: subcategory.table.filter((tr) => {
+                                    if (Array.isArray(shortLayerNames)) {
+                                        return tr.some(row => shortLayerNames!.some(shortLayerName => row.includes(shortLayerName)));
+                                    }
+
                                     //no forEach needed as we need only one match to show entire row
                                     for (let td = 0; td < tr.length; td++) {
                                         if (tr[td].includes(text)) {
@@ -68,18 +79,20 @@ const Home =  () => {
                         }
                     })
                 }
-            };
-        });
+            }
+        }).filter((category: Category) => category.content.some(c => c.table.length > 0));
         setCheatsheet(newCheatsheet);
     };
 
     return (
-        <main className={"tracking-wide font-roboto min-h-screen grid content-start"}>
-            <SearchBar searchFilter={search} />
-            <Tagline />
-            <Categories cheatsheet={cheatsheet} />
-            <Footer />
-        </main>
+        <LayersContext.Provider value={json.layers}>
+            <main className={"tracking-wide font-roboto min-h-screen grid content-start"}>
+                <SearchBar searchFilter={search} />
+                <Tagline />
+                <Categories cheatsheet={cheatsheet} />
+                <Footer />
+            </main>
+        </LayersContext.Provider>
     );
 }
 
