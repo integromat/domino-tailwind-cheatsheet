@@ -34,13 +34,11 @@ const Home =  () => {
 
     const search = (text: string) => {
         const normSearchText = text.trim().toLowerCase();
+        // The searched term might be a part of a full semantic layer name. Convert full layer names to their
+        // abbreviated variants so they can be used for searching.
         let shortLayerNames = normSearchText
             ? Object.keys(json.layers).filter(layerName => layerName.includes(normSearchText)).map(layerName => json.layers[layerName])
             : null;
-
-        if (normSearchText && shortLayerNames?.length === 0) {
-            shortLayerNames = Object.values<string[]>(json.layers).filter(layerAbbr => layerAbbr.includes(normSearchText))
-        }
 
         let newCheatsheet: Category[] = json.data.map((category: Category) => {
             if (category.title.toLowerCase().includes(text)) {
@@ -63,7 +61,8 @@ const Home =  () => {
                                 docs: subcategory.docs,
                                 description: subcategory.description,
                                 table: subcategory.table.filter((tr) => {
-                                    if (Array.isArray(shortLayerNames)) {
+                                    // Search row for any occurrence of semantic layer abbreviation
+                                    if (Array.isArray(shortLayerNames) && shortLayerNames.length > 0) {
                                         return tr.some(row => shortLayerNames!.some(shortLayerName => row.includes(shortLayerName)));
                                     }
 
@@ -80,7 +79,9 @@ const Home =  () => {
                     })
                 }
             }
-        }).filter((category: Category) => category.content.some(c => c.table.length > 0));
+        })
+            // Remove empty tables
+            .filter((category: Category) => category.content.some(c => c.table.length > 0));
         setCheatsheet(newCheatsheet);
     };
 
