@@ -13243,172 +13243,10 @@
 							" #cbd2d9"
 						],
 						[
-							"",
-							"dmo-border-ovwhwh-4",
-							"border-color: var(--dmo-color-opacity-white-10);",
-							" #ffffff0a"
-						],
-						[
-							"",
-							"dmo-border-ovwhwh-8",
-							"border-color: var(--dmo-color-opacity-white-20);",
-							" #ffffff14"
-						],
-						[
-							"",
-							"dmo-border-ovwhwh-12",
-							"border-color: var(--dmo-color-opacity-white-30);",
-							" #ffffff1f"
-						],
-						[
-							"",
-							"dmo-border-ovwhwh-16",
-							"border-color: var(--dmo-color-opacity-white-40);",
-							" #ffffff29"
-						],
-						[
-							"",
-							"dmo-border-ovwhwh-24",
-							"border-color: var(--dmo-color-opacity-white-50);",
-							" #ffffff3d"
-						],
-						[
-							"",
-							"dmo-border-ovwhwh-32",
-							"border-color: var(--dmo-color-opacity-white-60);",
-							" #ffffff52"
-						],
-						[
-							"",
-							"dmo-border-ovwhwh-64",
-							"border-color: var(--dmo-color-opacity-white-80);",
-							" #ffffffa3"
-						],
-						[
-							"",
-							"dmo-border-ovwhwh-80",
-							"border-color: var(--dmo-color-opacity-white-90);",
-							" #ffffffcc"
-						],
-						[
-							"",
-							"dmo-border-ovwhwh-40",
-							"border-color: var(--dmo-color-opacity-white-70);",
-							" #ffffff66"
-						],
-						[
-							"",
-							"dmo-border-ovblbl-4",
-							"border-color: var(--dmo-color-opacity-black-10);",
-							" #1010100a"
-						],
-						[
-							"",
-							"dmo-border-ovblbl-8",
-							"border-color: var(--dmo-color-opacity-black-20);",
-							" #10101014"
-						],
-						[
-							"",
-							"dmo-border-ovblbl-12",
-							"border-color: var(--dmo-color-opacity-black-30);",
-							" #1010101f"
-						],
-						[
-							"",
-							"dmo-border-ovblbl-16",
-							"border-color: var(--dmo-color-opacity-black-40);",
-							" #10101029"
-						],
-						[
-							"",
-							"dmo-border-ovblbl-24",
-							"border-color: var(--dmo-color-opacity-black-50);",
-							" #1010103d"
-						],
-						[
-							"",
-							"dmo-border-ovblbl-32",
-							"border-color: var(--dmo-color-opacity-black-60);",
-							" #10101052"
-						],
-						[
-							"",
-							"dmo-border-ovblbl-40",
-							"border-color: var(--dmo-color-opacity-black-70);",
-							" #10101066"
-						],
-						[
-							"",
-							"dmo-border-ovblbl-64",
-							"border-color: var(--dmo-color-opacity-black-80);",
-							" #101010a3"
-						],
-						[
-							"",
-							"dmo-border-ovblbl-80",
-							"border-color: var(--dmo-color-opacity-black-90);",
-							" #101010cc"
-						],
-						[
 							"rgb(229, 233, 236)",
 							"dmo-border-sk-secondary",
 							"border-color: var(--dmo-color-slate-100);",
 							" #e5e9ec"
-						],
-						[
-							"",
-							"dmo-border-ovbrbr-4",
-							"border-color: var(--dmo-color-brand-opacity-10);",
-							" #7302d50a"
-						],
-						[
-							"",
-							"dmo-border-ovbrbr-8",
-							"border-color: var(--dmo-color-brand-opacity-20);",
-							" #7302d514"
-						],
-						[
-							"",
-							"dmo-border-ovbrbr-12",
-							"border-color: var(--dmo-color-brand-opacity-30);",
-							" #7302d51f"
-						],
-						[
-							"",
-							"dmo-border-ovbrbr-16",
-							"border-color: var(--dmo-color-brand-opacity-40);",
-							" #7302d529"
-						],
-						[
-							"",
-							"dmo-border-ovbrbr-24",
-							"border-color: var(--dmo-color-brand-opacity-50);",
-							" #7302d53d"
-						],
-						[
-							"",
-							"dmo-border-ovbrbr-32",
-							"border-color: var(--dmo-color-brand-opacity-60);",
-							" #7302d552"
-						],
-						[
-							"",
-							"dmo-border-ovbrbr-40",
-							"border-color: var(--dmo-color-brand-opacity-70);",
-							" #7302d566"
-						],
-						[
-							"",
-							"dmo-border-ovbrbr-64",
-							"border-color: var(--dmo-color-brand-opacity-80);",
-							" #7302d5a6"
-						],
-						[
-							"",
-							"dmo-border-ovbrbr-80",
-							"border-color: var(--dmo-color-brand-opacity-90);",
-							" #7302d5cc"
 						],
 						[
 							"rgb(38, 38, 38)",
@@ -13837,172 +13675,10 @@
 							" #cbd2d9"
 						],
 						[
-							"",
-							"dmo-border-x-ovwhwh-4",
-							"border-left-color: var(--dmo-color-opacity-white-10);",
-							" #ffffff0a"
-						],
-						[
-							"",
-							"dmo-border-x-ovwhwh-8",
-							"border-left-color: var(--dmo-color-opacity-white-20);",
-							" #ffffff14"
-						],
-						[
-							"",
-							"dmo-border-x-ovwhwh-12",
-							"border-left-color: var(--dmo-color-opacity-white-30);",
-							" #ffffff1f"
-						],
-						[
-							"",
-							"dmo-border-x-ovwhwh-16",
-							"border-left-color: var(--dmo-color-opacity-white-40);",
-							" #ffffff29"
-						],
-						[
-							"",
-							"dmo-border-x-ovwhwh-24",
-							"border-left-color: var(--dmo-color-opacity-white-50);",
-							" #ffffff3d"
-						],
-						[
-							"",
-							"dmo-border-x-ovwhwh-32",
-							"border-left-color: var(--dmo-color-opacity-white-60);",
-							" #ffffff52"
-						],
-						[
-							"",
-							"dmo-border-x-ovwhwh-64",
-							"border-left-color: var(--dmo-color-opacity-white-80);",
-							" #ffffffa3"
-						],
-						[
-							"",
-							"dmo-border-x-ovwhwh-80",
-							"border-left-color: var(--dmo-color-opacity-white-90);",
-							" #ffffffcc"
-						],
-						[
-							"",
-							"dmo-border-x-ovwhwh-40",
-							"border-left-color: var(--dmo-color-opacity-white-70);",
-							" #ffffff66"
-						],
-						[
-							"",
-							"dmo-border-x-ovblbl-4",
-							"border-left-color: var(--dmo-color-opacity-black-10);",
-							" #1010100a"
-						],
-						[
-							"",
-							"dmo-border-x-ovblbl-8",
-							"border-left-color: var(--dmo-color-opacity-black-20);",
-							" #10101014"
-						],
-						[
-							"",
-							"dmo-border-x-ovblbl-12",
-							"border-left-color: var(--dmo-color-opacity-black-30);",
-							" #1010101f"
-						],
-						[
-							"",
-							"dmo-border-x-ovblbl-16",
-							"border-left-color: var(--dmo-color-opacity-black-40);",
-							" #10101029"
-						],
-						[
-							"",
-							"dmo-border-x-ovblbl-24",
-							"border-left-color: var(--dmo-color-opacity-black-50);",
-							" #1010103d"
-						],
-						[
-							"",
-							"dmo-border-x-ovblbl-32",
-							"border-left-color: var(--dmo-color-opacity-black-60);",
-							" #10101052"
-						],
-						[
-							"",
-							"dmo-border-x-ovblbl-40",
-							"border-left-color: var(--dmo-color-opacity-black-70);",
-							" #10101066"
-						],
-						[
-							"",
-							"dmo-border-x-ovblbl-64",
-							"border-left-color: var(--dmo-color-opacity-black-80);",
-							" #101010a3"
-						],
-						[
-							"",
-							"dmo-border-x-ovblbl-80",
-							"border-left-color: var(--dmo-color-opacity-black-90);",
-							" #101010cc"
-						],
-						[
 							"rgb(229, 233, 236)",
 							"dmo-border-x-sk-secondary",
 							"border-left-color: var(--dmo-color-slate-100);",
 							" #e5e9ec"
-						],
-						[
-							"",
-							"dmo-border-x-ovbrbr-4",
-							"border-left-color: var(--dmo-color-brand-opacity-10);",
-							" #7302d50a"
-						],
-						[
-							"",
-							"dmo-border-x-ovbrbr-8",
-							"border-left-color: var(--dmo-color-brand-opacity-20);",
-							" #7302d514"
-						],
-						[
-							"",
-							"dmo-border-x-ovbrbr-12",
-							"border-left-color: var(--dmo-color-brand-opacity-30);",
-							" #7302d51f"
-						],
-						[
-							"",
-							"dmo-border-x-ovbrbr-16",
-							"border-left-color: var(--dmo-color-brand-opacity-40);",
-							" #7302d529"
-						],
-						[
-							"",
-							"dmo-border-x-ovbrbr-24",
-							"border-left-color: var(--dmo-color-brand-opacity-50);",
-							" #7302d53d"
-						],
-						[
-							"",
-							"dmo-border-x-ovbrbr-32",
-							"border-left-color: var(--dmo-color-brand-opacity-60);",
-							" #7302d552"
-						],
-						[
-							"",
-							"dmo-border-x-ovbrbr-40",
-							"border-left-color: var(--dmo-color-brand-opacity-70);",
-							" #7302d566"
-						],
-						[
-							"",
-							"dmo-border-x-ovbrbr-64",
-							"border-left-color: var(--dmo-color-brand-opacity-80);",
-							" #7302d5a6"
-						],
-						[
-							"",
-							"dmo-border-x-ovbrbr-80",
-							"border-left-color: var(--dmo-color-brand-opacity-90);",
-							" #7302d5cc"
 						],
 						[
 							"rgb(38, 38, 38)",
@@ -14431,172 +14107,10 @@
 							" #cbd2d9"
 						],
 						[
-							"",
-							"dmo-border-y-ovwhwh-4",
-							"border-top-color: var(--dmo-color-opacity-white-10);",
-							" #ffffff0a"
-						],
-						[
-							"",
-							"dmo-border-y-ovwhwh-8",
-							"border-top-color: var(--dmo-color-opacity-white-20);",
-							" #ffffff14"
-						],
-						[
-							"",
-							"dmo-border-y-ovwhwh-12",
-							"border-top-color: var(--dmo-color-opacity-white-30);",
-							" #ffffff1f"
-						],
-						[
-							"",
-							"dmo-border-y-ovwhwh-16",
-							"border-top-color: var(--dmo-color-opacity-white-40);",
-							" #ffffff29"
-						],
-						[
-							"",
-							"dmo-border-y-ovwhwh-24",
-							"border-top-color: var(--dmo-color-opacity-white-50);",
-							" #ffffff3d"
-						],
-						[
-							"",
-							"dmo-border-y-ovwhwh-32",
-							"border-top-color: var(--dmo-color-opacity-white-60);",
-							" #ffffff52"
-						],
-						[
-							"",
-							"dmo-border-y-ovwhwh-64",
-							"border-top-color: var(--dmo-color-opacity-white-80);",
-							" #ffffffa3"
-						],
-						[
-							"",
-							"dmo-border-y-ovwhwh-80",
-							"border-top-color: var(--dmo-color-opacity-white-90);",
-							" #ffffffcc"
-						],
-						[
-							"",
-							"dmo-border-y-ovwhwh-40",
-							"border-top-color: var(--dmo-color-opacity-white-70);",
-							" #ffffff66"
-						],
-						[
-							"",
-							"dmo-border-y-ovblbl-4",
-							"border-top-color: var(--dmo-color-opacity-black-10);",
-							" #1010100a"
-						],
-						[
-							"",
-							"dmo-border-y-ovblbl-8",
-							"border-top-color: var(--dmo-color-opacity-black-20);",
-							" #10101014"
-						],
-						[
-							"",
-							"dmo-border-y-ovblbl-12",
-							"border-top-color: var(--dmo-color-opacity-black-30);",
-							" #1010101f"
-						],
-						[
-							"",
-							"dmo-border-y-ovblbl-16",
-							"border-top-color: var(--dmo-color-opacity-black-40);",
-							" #10101029"
-						],
-						[
-							"",
-							"dmo-border-y-ovblbl-24",
-							"border-top-color: var(--dmo-color-opacity-black-50);",
-							" #1010103d"
-						],
-						[
-							"",
-							"dmo-border-y-ovblbl-32",
-							"border-top-color: var(--dmo-color-opacity-black-60);",
-							" #10101052"
-						],
-						[
-							"",
-							"dmo-border-y-ovblbl-40",
-							"border-top-color: var(--dmo-color-opacity-black-70);",
-							" #10101066"
-						],
-						[
-							"",
-							"dmo-border-y-ovblbl-64",
-							"border-top-color: var(--dmo-color-opacity-black-80);",
-							" #101010a3"
-						],
-						[
-							"",
-							"dmo-border-y-ovblbl-80",
-							"border-top-color: var(--dmo-color-opacity-black-90);",
-							" #101010cc"
-						],
-						[
 							"rgb(229, 233, 236)",
 							"dmo-border-y-sk-secondary",
 							"border-top-color: var(--dmo-color-slate-100);",
 							" #e5e9ec"
-						],
-						[
-							"",
-							"dmo-border-y-ovbrbr-4",
-							"border-top-color: var(--dmo-color-brand-opacity-10);",
-							" #7302d50a"
-						],
-						[
-							"",
-							"dmo-border-y-ovbrbr-8",
-							"border-top-color: var(--dmo-color-brand-opacity-20);",
-							" #7302d514"
-						],
-						[
-							"",
-							"dmo-border-y-ovbrbr-12",
-							"border-top-color: var(--dmo-color-brand-opacity-30);",
-							" #7302d51f"
-						],
-						[
-							"",
-							"dmo-border-y-ovbrbr-16",
-							"border-top-color: var(--dmo-color-brand-opacity-40);",
-							" #7302d529"
-						],
-						[
-							"",
-							"dmo-border-y-ovbrbr-24",
-							"border-top-color: var(--dmo-color-brand-opacity-50);",
-							" #7302d53d"
-						],
-						[
-							"",
-							"dmo-border-y-ovbrbr-32",
-							"border-top-color: var(--dmo-color-brand-opacity-60);",
-							" #7302d552"
-						],
-						[
-							"",
-							"dmo-border-y-ovbrbr-40",
-							"border-top-color: var(--dmo-color-brand-opacity-70);",
-							" #7302d566"
-						],
-						[
-							"",
-							"dmo-border-y-ovbrbr-64",
-							"border-top-color: var(--dmo-color-brand-opacity-80);",
-							" #7302d5a6"
-						],
-						[
-							"",
-							"dmo-border-y-ovbrbr-80",
-							"border-top-color: var(--dmo-color-brand-opacity-90);",
-							" #7302d5cc"
 						],
 						[
 							"rgb(38, 38, 38)",
@@ -15025,172 +14539,10 @@
 							" #cbd2d9"
 						],
 						[
-							"",
-							"dmo-border-s-ovwhwh-4",
-							"border-inline-start-color: var(--dmo-color-opacity-white-10);",
-							" #ffffff0a"
-						],
-						[
-							"",
-							"dmo-border-s-ovwhwh-8",
-							"border-inline-start-color: var(--dmo-color-opacity-white-20);",
-							" #ffffff14"
-						],
-						[
-							"",
-							"dmo-border-s-ovwhwh-12",
-							"border-inline-start-color: var(--dmo-color-opacity-white-30);",
-							" #ffffff1f"
-						],
-						[
-							"",
-							"dmo-border-s-ovwhwh-16",
-							"border-inline-start-color: var(--dmo-color-opacity-white-40);",
-							" #ffffff29"
-						],
-						[
-							"",
-							"dmo-border-s-ovwhwh-24",
-							"border-inline-start-color: var(--dmo-color-opacity-white-50);",
-							" #ffffff3d"
-						],
-						[
-							"",
-							"dmo-border-s-ovwhwh-32",
-							"border-inline-start-color: var(--dmo-color-opacity-white-60);",
-							" #ffffff52"
-						],
-						[
-							"",
-							"dmo-border-s-ovwhwh-64",
-							"border-inline-start-color: var(--dmo-color-opacity-white-80);",
-							" #ffffffa3"
-						],
-						[
-							"",
-							"dmo-border-s-ovwhwh-80",
-							"border-inline-start-color: var(--dmo-color-opacity-white-90);",
-							" #ffffffcc"
-						],
-						[
-							"",
-							"dmo-border-s-ovwhwh-40",
-							"border-inline-start-color: var(--dmo-color-opacity-white-70);",
-							" #ffffff66"
-						],
-						[
-							"",
-							"dmo-border-s-ovblbl-4",
-							"border-inline-start-color: var(--dmo-color-opacity-black-10);",
-							" #1010100a"
-						],
-						[
-							"",
-							"dmo-border-s-ovblbl-8",
-							"border-inline-start-color: var(--dmo-color-opacity-black-20);",
-							" #10101014"
-						],
-						[
-							"",
-							"dmo-border-s-ovblbl-12",
-							"border-inline-start-color: var(--dmo-color-opacity-black-30);",
-							" #1010101f"
-						],
-						[
-							"",
-							"dmo-border-s-ovblbl-16",
-							"border-inline-start-color: var(--dmo-color-opacity-black-40);",
-							" #10101029"
-						],
-						[
-							"",
-							"dmo-border-s-ovblbl-24",
-							"border-inline-start-color: var(--dmo-color-opacity-black-50);",
-							" #1010103d"
-						],
-						[
-							"",
-							"dmo-border-s-ovblbl-32",
-							"border-inline-start-color: var(--dmo-color-opacity-black-60);",
-							" #10101052"
-						],
-						[
-							"",
-							"dmo-border-s-ovblbl-40",
-							"border-inline-start-color: var(--dmo-color-opacity-black-70);",
-							" #10101066"
-						],
-						[
-							"",
-							"dmo-border-s-ovblbl-64",
-							"border-inline-start-color: var(--dmo-color-opacity-black-80);",
-							" #101010a3"
-						],
-						[
-							"",
-							"dmo-border-s-ovblbl-80",
-							"border-inline-start-color: var(--dmo-color-opacity-black-90);",
-							" #101010cc"
-						],
-						[
 							"rgb(229, 233, 236)",
 							"dmo-border-s-sk-secondary",
 							"border-inline-start-color: var(--dmo-color-slate-100);",
 							" #e5e9ec"
-						],
-						[
-							"",
-							"dmo-border-s-ovbrbr-4",
-							"border-inline-start-color: var(--dmo-color-brand-opacity-10);",
-							" #7302d50a"
-						],
-						[
-							"",
-							"dmo-border-s-ovbrbr-8",
-							"border-inline-start-color: var(--dmo-color-brand-opacity-20);",
-							" #7302d514"
-						],
-						[
-							"",
-							"dmo-border-s-ovbrbr-12",
-							"border-inline-start-color: var(--dmo-color-brand-opacity-30);",
-							" #7302d51f"
-						],
-						[
-							"",
-							"dmo-border-s-ovbrbr-16",
-							"border-inline-start-color: var(--dmo-color-brand-opacity-40);",
-							" #7302d529"
-						],
-						[
-							"",
-							"dmo-border-s-ovbrbr-24",
-							"border-inline-start-color: var(--dmo-color-brand-opacity-50);",
-							" #7302d53d"
-						],
-						[
-							"",
-							"dmo-border-s-ovbrbr-32",
-							"border-inline-start-color: var(--dmo-color-brand-opacity-60);",
-							" #7302d552"
-						],
-						[
-							"",
-							"dmo-border-s-ovbrbr-40",
-							"border-inline-start-color: var(--dmo-color-brand-opacity-70);",
-							" #7302d566"
-						],
-						[
-							"",
-							"dmo-border-s-ovbrbr-64",
-							"border-inline-start-color: var(--dmo-color-brand-opacity-80);",
-							" #7302d5a6"
-						],
-						[
-							"",
-							"dmo-border-s-ovbrbr-80",
-							"border-inline-start-color: var(--dmo-color-brand-opacity-90);",
-							" #7302d5cc"
 						],
 						[
 							"rgb(38, 38, 38)",
@@ -15619,172 +14971,10 @@
 							" #cbd2d9"
 						],
 						[
-							"",
-							"dmo-border-e-ovwhwh-4",
-							"border-inline-end-color: var(--dmo-color-opacity-white-10);",
-							" #ffffff0a"
-						],
-						[
-							"",
-							"dmo-border-e-ovwhwh-8",
-							"border-inline-end-color: var(--dmo-color-opacity-white-20);",
-							" #ffffff14"
-						],
-						[
-							"",
-							"dmo-border-e-ovwhwh-12",
-							"border-inline-end-color: var(--dmo-color-opacity-white-30);",
-							" #ffffff1f"
-						],
-						[
-							"",
-							"dmo-border-e-ovwhwh-16",
-							"border-inline-end-color: var(--dmo-color-opacity-white-40);",
-							" #ffffff29"
-						],
-						[
-							"",
-							"dmo-border-e-ovwhwh-24",
-							"border-inline-end-color: var(--dmo-color-opacity-white-50);",
-							" #ffffff3d"
-						],
-						[
-							"",
-							"dmo-border-e-ovwhwh-32",
-							"border-inline-end-color: var(--dmo-color-opacity-white-60);",
-							" #ffffff52"
-						],
-						[
-							"",
-							"dmo-border-e-ovwhwh-64",
-							"border-inline-end-color: var(--dmo-color-opacity-white-80);",
-							" #ffffffa3"
-						],
-						[
-							"",
-							"dmo-border-e-ovwhwh-80",
-							"border-inline-end-color: var(--dmo-color-opacity-white-90);",
-							" #ffffffcc"
-						],
-						[
-							"",
-							"dmo-border-e-ovwhwh-40",
-							"border-inline-end-color: var(--dmo-color-opacity-white-70);",
-							" #ffffff66"
-						],
-						[
-							"",
-							"dmo-border-e-ovblbl-4",
-							"border-inline-end-color: var(--dmo-color-opacity-black-10);",
-							" #1010100a"
-						],
-						[
-							"",
-							"dmo-border-e-ovblbl-8",
-							"border-inline-end-color: var(--dmo-color-opacity-black-20);",
-							" #10101014"
-						],
-						[
-							"",
-							"dmo-border-e-ovblbl-12",
-							"border-inline-end-color: var(--dmo-color-opacity-black-30);",
-							" #1010101f"
-						],
-						[
-							"",
-							"dmo-border-e-ovblbl-16",
-							"border-inline-end-color: var(--dmo-color-opacity-black-40);",
-							" #10101029"
-						],
-						[
-							"",
-							"dmo-border-e-ovblbl-24",
-							"border-inline-end-color: var(--dmo-color-opacity-black-50);",
-							" #1010103d"
-						],
-						[
-							"",
-							"dmo-border-e-ovblbl-32",
-							"border-inline-end-color: var(--dmo-color-opacity-black-60);",
-							" #10101052"
-						],
-						[
-							"",
-							"dmo-border-e-ovblbl-40",
-							"border-inline-end-color: var(--dmo-color-opacity-black-70);",
-							" #10101066"
-						],
-						[
-							"",
-							"dmo-border-e-ovblbl-64",
-							"border-inline-end-color: var(--dmo-color-opacity-black-80);",
-							" #101010a3"
-						],
-						[
-							"",
-							"dmo-border-e-ovblbl-80",
-							"border-inline-end-color: var(--dmo-color-opacity-black-90);",
-							" #101010cc"
-						],
-						[
 							"rgb(229, 233, 236)",
 							"dmo-border-e-sk-secondary",
 							"border-inline-end-color: var(--dmo-color-slate-100);",
 							" #e5e9ec"
-						],
-						[
-							"",
-							"dmo-border-e-ovbrbr-4",
-							"border-inline-end-color: var(--dmo-color-brand-opacity-10);",
-							" #7302d50a"
-						],
-						[
-							"",
-							"dmo-border-e-ovbrbr-8",
-							"border-inline-end-color: var(--dmo-color-brand-opacity-20);",
-							" #7302d514"
-						],
-						[
-							"",
-							"dmo-border-e-ovbrbr-12",
-							"border-inline-end-color: var(--dmo-color-brand-opacity-30);",
-							" #7302d51f"
-						],
-						[
-							"",
-							"dmo-border-e-ovbrbr-16",
-							"border-inline-end-color: var(--dmo-color-brand-opacity-40);",
-							" #7302d529"
-						],
-						[
-							"",
-							"dmo-border-e-ovbrbr-24",
-							"border-inline-end-color: var(--dmo-color-brand-opacity-50);",
-							" #7302d53d"
-						],
-						[
-							"",
-							"dmo-border-e-ovbrbr-32",
-							"border-inline-end-color: var(--dmo-color-brand-opacity-60);",
-							" #7302d552"
-						],
-						[
-							"",
-							"dmo-border-e-ovbrbr-40",
-							"border-inline-end-color: var(--dmo-color-brand-opacity-70);",
-							" #7302d566"
-						],
-						[
-							"",
-							"dmo-border-e-ovbrbr-64",
-							"border-inline-end-color: var(--dmo-color-brand-opacity-80);",
-							" #7302d5a6"
-						],
-						[
-							"",
-							"dmo-border-e-ovbrbr-80",
-							"border-inline-end-color: var(--dmo-color-brand-opacity-90);",
-							" #7302d5cc"
 						],
 						[
 							"rgb(38, 38, 38)",
@@ -16213,172 +15403,10 @@
 							" #cbd2d9"
 						],
 						[
-							"",
-							"dmo-border-t-ovwhwh-4",
-							"border-top-color: var(--dmo-color-opacity-white-10);",
-							" #ffffff0a"
-						],
-						[
-							"",
-							"dmo-border-t-ovwhwh-8",
-							"border-top-color: var(--dmo-color-opacity-white-20);",
-							" #ffffff14"
-						],
-						[
-							"",
-							"dmo-border-t-ovwhwh-12",
-							"border-top-color: var(--dmo-color-opacity-white-30);",
-							" #ffffff1f"
-						],
-						[
-							"",
-							"dmo-border-t-ovwhwh-16",
-							"border-top-color: var(--dmo-color-opacity-white-40);",
-							" #ffffff29"
-						],
-						[
-							"",
-							"dmo-border-t-ovwhwh-24",
-							"border-top-color: var(--dmo-color-opacity-white-50);",
-							" #ffffff3d"
-						],
-						[
-							"",
-							"dmo-border-t-ovwhwh-32",
-							"border-top-color: var(--dmo-color-opacity-white-60);",
-							" #ffffff52"
-						],
-						[
-							"",
-							"dmo-border-t-ovwhwh-64",
-							"border-top-color: var(--dmo-color-opacity-white-80);",
-							" #ffffffa3"
-						],
-						[
-							"",
-							"dmo-border-t-ovwhwh-80",
-							"border-top-color: var(--dmo-color-opacity-white-90);",
-							" #ffffffcc"
-						],
-						[
-							"",
-							"dmo-border-t-ovwhwh-40",
-							"border-top-color: var(--dmo-color-opacity-white-70);",
-							" #ffffff66"
-						],
-						[
-							"",
-							"dmo-border-t-ovblbl-4",
-							"border-top-color: var(--dmo-color-opacity-black-10);",
-							" #1010100a"
-						],
-						[
-							"",
-							"dmo-border-t-ovblbl-8",
-							"border-top-color: var(--dmo-color-opacity-black-20);",
-							" #10101014"
-						],
-						[
-							"",
-							"dmo-border-t-ovblbl-12",
-							"border-top-color: var(--dmo-color-opacity-black-30);",
-							" #1010101f"
-						],
-						[
-							"",
-							"dmo-border-t-ovblbl-16",
-							"border-top-color: var(--dmo-color-opacity-black-40);",
-							" #10101029"
-						],
-						[
-							"",
-							"dmo-border-t-ovblbl-24",
-							"border-top-color: var(--dmo-color-opacity-black-50);",
-							" #1010103d"
-						],
-						[
-							"",
-							"dmo-border-t-ovblbl-32",
-							"border-top-color: var(--dmo-color-opacity-black-60);",
-							" #10101052"
-						],
-						[
-							"",
-							"dmo-border-t-ovblbl-40",
-							"border-top-color: var(--dmo-color-opacity-black-70);",
-							" #10101066"
-						],
-						[
-							"",
-							"dmo-border-t-ovblbl-64",
-							"border-top-color: var(--dmo-color-opacity-black-80);",
-							" #101010a3"
-						],
-						[
-							"",
-							"dmo-border-t-ovblbl-80",
-							"border-top-color: var(--dmo-color-opacity-black-90);",
-							" #101010cc"
-						],
-						[
 							"rgb(229, 233, 236)",
 							"dmo-border-t-sk-secondary",
 							"border-top-color: var(--dmo-color-slate-100);",
 							" #e5e9ec"
-						],
-						[
-							"",
-							"dmo-border-t-ovbrbr-4",
-							"border-top-color: var(--dmo-color-brand-opacity-10);",
-							" #7302d50a"
-						],
-						[
-							"",
-							"dmo-border-t-ovbrbr-8",
-							"border-top-color: var(--dmo-color-brand-opacity-20);",
-							" #7302d514"
-						],
-						[
-							"",
-							"dmo-border-t-ovbrbr-12",
-							"border-top-color: var(--dmo-color-brand-opacity-30);",
-							" #7302d51f"
-						],
-						[
-							"",
-							"dmo-border-t-ovbrbr-16",
-							"border-top-color: var(--dmo-color-brand-opacity-40);",
-							" #7302d529"
-						],
-						[
-							"",
-							"dmo-border-t-ovbrbr-24",
-							"border-top-color: var(--dmo-color-brand-opacity-50);",
-							" #7302d53d"
-						],
-						[
-							"",
-							"dmo-border-t-ovbrbr-32",
-							"border-top-color: var(--dmo-color-brand-opacity-60);",
-							" #7302d552"
-						],
-						[
-							"",
-							"dmo-border-t-ovbrbr-40",
-							"border-top-color: var(--dmo-color-brand-opacity-70);",
-							" #7302d566"
-						],
-						[
-							"",
-							"dmo-border-t-ovbrbr-64",
-							"border-top-color: var(--dmo-color-brand-opacity-80);",
-							" #7302d5a6"
-						],
-						[
-							"",
-							"dmo-border-t-ovbrbr-80",
-							"border-top-color: var(--dmo-color-brand-opacity-90);",
-							" #7302d5cc"
 						],
 						[
 							"rgb(38, 38, 38)",
@@ -16807,172 +15835,10 @@
 							" #cbd2d9"
 						],
 						[
-							"",
-							"dmo-border-r-ovwhwh-4",
-							"border-right-color: var(--dmo-color-opacity-white-10);",
-							" #ffffff0a"
-						],
-						[
-							"",
-							"dmo-border-r-ovwhwh-8",
-							"border-right-color: var(--dmo-color-opacity-white-20);",
-							" #ffffff14"
-						],
-						[
-							"",
-							"dmo-border-r-ovwhwh-12",
-							"border-right-color: var(--dmo-color-opacity-white-30);",
-							" #ffffff1f"
-						],
-						[
-							"",
-							"dmo-border-r-ovwhwh-16",
-							"border-right-color: var(--dmo-color-opacity-white-40);",
-							" #ffffff29"
-						],
-						[
-							"",
-							"dmo-border-r-ovwhwh-24",
-							"border-right-color: var(--dmo-color-opacity-white-50);",
-							" #ffffff3d"
-						],
-						[
-							"",
-							"dmo-border-r-ovwhwh-32",
-							"border-right-color: var(--dmo-color-opacity-white-60);",
-							" #ffffff52"
-						],
-						[
-							"",
-							"dmo-border-r-ovwhwh-64",
-							"border-right-color: var(--dmo-color-opacity-white-80);",
-							" #ffffffa3"
-						],
-						[
-							"",
-							"dmo-border-r-ovwhwh-80",
-							"border-right-color: var(--dmo-color-opacity-white-90);",
-							" #ffffffcc"
-						],
-						[
-							"",
-							"dmo-border-r-ovwhwh-40",
-							"border-right-color: var(--dmo-color-opacity-white-70);",
-							" #ffffff66"
-						],
-						[
-							"",
-							"dmo-border-r-ovblbl-4",
-							"border-right-color: var(--dmo-color-opacity-black-10);",
-							" #1010100a"
-						],
-						[
-							"",
-							"dmo-border-r-ovblbl-8",
-							"border-right-color: var(--dmo-color-opacity-black-20);",
-							" #10101014"
-						],
-						[
-							"",
-							"dmo-border-r-ovblbl-12",
-							"border-right-color: var(--dmo-color-opacity-black-30);",
-							" #1010101f"
-						],
-						[
-							"",
-							"dmo-border-r-ovblbl-16",
-							"border-right-color: var(--dmo-color-opacity-black-40);",
-							" #10101029"
-						],
-						[
-							"",
-							"dmo-border-r-ovblbl-24",
-							"border-right-color: var(--dmo-color-opacity-black-50);",
-							" #1010103d"
-						],
-						[
-							"",
-							"dmo-border-r-ovblbl-32",
-							"border-right-color: var(--dmo-color-opacity-black-60);",
-							" #10101052"
-						],
-						[
-							"",
-							"dmo-border-r-ovblbl-40",
-							"border-right-color: var(--dmo-color-opacity-black-70);",
-							" #10101066"
-						],
-						[
-							"",
-							"dmo-border-r-ovblbl-64",
-							"border-right-color: var(--dmo-color-opacity-black-80);",
-							" #101010a3"
-						],
-						[
-							"",
-							"dmo-border-r-ovblbl-80",
-							"border-right-color: var(--dmo-color-opacity-black-90);",
-							" #101010cc"
-						],
-						[
 							"rgb(229, 233, 236)",
 							"dmo-border-r-sk-secondary",
 							"border-right-color: var(--dmo-color-slate-100);",
 							" #e5e9ec"
-						],
-						[
-							"",
-							"dmo-border-r-ovbrbr-4",
-							"border-right-color: var(--dmo-color-brand-opacity-10);",
-							" #7302d50a"
-						],
-						[
-							"",
-							"dmo-border-r-ovbrbr-8",
-							"border-right-color: var(--dmo-color-brand-opacity-20);",
-							" #7302d514"
-						],
-						[
-							"",
-							"dmo-border-r-ovbrbr-12",
-							"border-right-color: var(--dmo-color-brand-opacity-30);",
-							" #7302d51f"
-						],
-						[
-							"",
-							"dmo-border-r-ovbrbr-16",
-							"border-right-color: var(--dmo-color-brand-opacity-40);",
-							" #7302d529"
-						],
-						[
-							"",
-							"dmo-border-r-ovbrbr-24",
-							"border-right-color: var(--dmo-color-brand-opacity-50);",
-							" #7302d53d"
-						],
-						[
-							"",
-							"dmo-border-r-ovbrbr-32",
-							"border-right-color: var(--dmo-color-brand-opacity-60);",
-							" #7302d552"
-						],
-						[
-							"",
-							"dmo-border-r-ovbrbr-40",
-							"border-right-color: var(--dmo-color-brand-opacity-70);",
-							" #7302d566"
-						],
-						[
-							"",
-							"dmo-border-r-ovbrbr-64",
-							"border-right-color: var(--dmo-color-brand-opacity-80);",
-							" #7302d5a6"
-						],
-						[
-							"",
-							"dmo-border-r-ovbrbr-80",
-							"border-right-color: var(--dmo-color-brand-opacity-90);",
-							" #7302d5cc"
 						],
 						[
 							"rgb(38, 38, 38)",
@@ -17401,172 +16267,10 @@
 							" #cbd2d9"
 						],
 						[
-							"",
-							"dmo-border-b-ovwhwh-4",
-							"border-bottom-color: var(--dmo-color-opacity-white-10);",
-							" #ffffff0a"
-						],
-						[
-							"",
-							"dmo-border-b-ovwhwh-8",
-							"border-bottom-color: var(--dmo-color-opacity-white-20);",
-							" #ffffff14"
-						],
-						[
-							"",
-							"dmo-border-b-ovwhwh-12",
-							"border-bottom-color: var(--dmo-color-opacity-white-30);",
-							" #ffffff1f"
-						],
-						[
-							"",
-							"dmo-border-b-ovwhwh-16",
-							"border-bottom-color: var(--dmo-color-opacity-white-40);",
-							" #ffffff29"
-						],
-						[
-							"",
-							"dmo-border-b-ovwhwh-24",
-							"border-bottom-color: var(--dmo-color-opacity-white-50);",
-							" #ffffff3d"
-						],
-						[
-							"",
-							"dmo-border-b-ovwhwh-32",
-							"border-bottom-color: var(--dmo-color-opacity-white-60);",
-							" #ffffff52"
-						],
-						[
-							"",
-							"dmo-border-b-ovwhwh-64",
-							"border-bottom-color: var(--dmo-color-opacity-white-80);",
-							" #ffffffa3"
-						],
-						[
-							"",
-							"dmo-border-b-ovwhwh-80",
-							"border-bottom-color: var(--dmo-color-opacity-white-90);",
-							" #ffffffcc"
-						],
-						[
-							"",
-							"dmo-border-b-ovwhwh-40",
-							"border-bottom-color: var(--dmo-color-opacity-white-70);",
-							" #ffffff66"
-						],
-						[
-							"",
-							"dmo-border-b-ovblbl-4",
-							"border-bottom-color: var(--dmo-color-opacity-black-10);",
-							" #1010100a"
-						],
-						[
-							"",
-							"dmo-border-b-ovblbl-8",
-							"border-bottom-color: var(--dmo-color-opacity-black-20);",
-							" #10101014"
-						],
-						[
-							"",
-							"dmo-border-b-ovblbl-12",
-							"border-bottom-color: var(--dmo-color-opacity-black-30);",
-							" #1010101f"
-						],
-						[
-							"",
-							"dmo-border-b-ovblbl-16",
-							"border-bottom-color: var(--dmo-color-opacity-black-40);",
-							" #10101029"
-						],
-						[
-							"",
-							"dmo-border-b-ovblbl-24",
-							"border-bottom-color: var(--dmo-color-opacity-black-50);",
-							" #1010103d"
-						],
-						[
-							"",
-							"dmo-border-b-ovblbl-32",
-							"border-bottom-color: var(--dmo-color-opacity-black-60);",
-							" #10101052"
-						],
-						[
-							"",
-							"dmo-border-b-ovblbl-40",
-							"border-bottom-color: var(--dmo-color-opacity-black-70);",
-							" #10101066"
-						],
-						[
-							"",
-							"dmo-border-b-ovblbl-64",
-							"border-bottom-color: var(--dmo-color-opacity-black-80);",
-							" #101010a3"
-						],
-						[
-							"",
-							"dmo-border-b-ovblbl-80",
-							"border-bottom-color: var(--dmo-color-opacity-black-90);",
-							" #101010cc"
-						],
-						[
 							"rgb(229, 233, 236)",
 							"dmo-border-b-sk-secondary",
 							"border-bottom-color: var(--dmo-color-slate-100);",
 							" #e5e9ec"
-						],
-						[
-							"",
-							"dmo-border-b-ovbrbr-4",
-							"border-bottom-color: var(--dmo-color-brand-opacity-10);",
-							" #7302d50a"
-						],
-						[
-							"",
-							"dmo-border-b-ovbrbr-8",
-							"border-bottom-color: var(--dmo-color-brand-opacity-20);",
-							" #7302d514"
-						],
-						[
-							"",
-							"dmo-border-b-ovbrbr-12",
-							"border-bottom-color: var(--dmo-color-brand-opacity-30);",
-							" #7302d51f"
-						],
-						[
-							"",
-							"dmo-border-b-ovbrbr-16",
-							"border-bottom-color: var(--dmo-color-brand-opacity-40);",
-							" #7302d529"
-						],
-						[
-							"",
-							"dmo-border-b-ovbrbr-24",
-							"border-bottom-color: var(--dmo-color-brand-opacity-50);",
-							" #7302d53d"
-						],
-						[
-							"",
-							"dmo-border-b-ovbrbr-32",
-							"border-bottom-color: var(--dmo-color-brand-opacity-60);",
-							" #7302d552"
-						],
-						[
-							"",
-							"dmo-border-b-ovbrbr-40",
-							"border-bottom-color: var(--dmo-color-brand-opacity-70);",
-							" #7302d566"
-						],
-						[
-							"",
-							"dmo-border-b-ovbrbr-64",
-							"border-bottom-color: var(--dmo-color-brand-opacity-80);",
-							" #7302d5a6"
-						],
-						[
-							"",
-							"dmo-border-b-ovbrbr-80",
-							"border-bottom-color: var(--dmo-color-brand-opacity-90);",
-							" #7302d5cc"
 						],
 						[
 							"rgb(38, 38, 38)",
@@ -17995,172 +16699,10 @@
 							" #cbd2d9"
 						],
 						[
-							"",
-							"dmo-border-l-ovwhwh-4",
-							"border-left-color: var(--dmo-color-opacity-white-10);",
-							" #ffffff0a"
-						],
-						[
-							"",
-							"dmo-border-l-ovwhwh-8",
-							"border-left-color: var(--dmo-color-opacity-white-20);",
-							" #ffffff14"
-						],
-						[
-							"",
-							"dmo-border-l-ovwhwh-12",
-							"border-left-color: var(--dmo-color-opacity-white-30);",
-							" #ffffff1f"
-						],
-						[
-							"",
-							"dmo-border-l-ovwhwh-16",
-							"border-left-color: var(--dmo-color-opacity-white-40);",
-							" #ffffff29"
-						],
-						[
-							"",
-							"dmo-border-l-ovwhwh-24",
-							"border-left-color: var(--dmo-color-opacity-white-50);",
-							" #ffffff3d"
-						],
-						[
-							"",
-							"dmo-border-l-ovwhwh-32",
-							"border-left-color: var(--dmo-color-opacity-white-60);",
-							" #ffffff52"
-						],
-						[
-							"",
-							"dmo-border-l-ovwhwh-64",
-							"border-left-color: var(--dmo-color-opacity-white-80);",
-							" #ffffffa3"
-						],
-						[
-							"",
-							"dmo-border-l-ovwhwh-80",
-							"border-left-color: var(--dmo-color-opacity-white-90);",
-							" #ffffffcc"
-						],
-						[
-							"",
-							"dmo-border-l-ovwhwh-40",
-							"border-left-color: var(--dmo-color-opacity-white-70);",
-							" #ffffff66"
-						],
-						[
-							"",
-							"dmo-border-l-ovblbl-4",
-							"border-left-color: var(--dmo-color-opacity-black-10);",
-							" #1010100a"
-						],
-						[
-							"",
-							"dmo-border-l-ovblbl-8",
-							"border-left-color: var(--dmo-color-opacity-black-20);",
-							" #10101014"
-						],
-						[
-							"",
-							"dmo-border-l-ovblbl-12",
-							"border-left-color: var(--dmo-color-opacity-black-30);",
-							" #1010101f"
-						],
-						[
-							"",
-							"dmo-border-l-ovblbl-16",
-							"border-left-color: var(--dmo-color-opacity-black-40);",
-							" #10101029"
-						],
-						[
-							"",
-							"dmo-border-l-ovblbl-24",
-							"border-left-color: var(--dmo-color-opacity-black-50);",
-							" #1010103d"
-						],
-						[
-							"",
-							"dmo-border-l-ovblbl-32",
-							"border-left-color: var(--dmo-color-opacity-black-60);",
-							" #10101052"
-						],
-						[
-							"",
-							"dmo-border-l-ovblbl-40",
-							"border-left-color: var(--dmo-color-opacity-black-70);",
-							" #10101066"
-						],
-						[
-							"",
-							"dmo-border-l-ovblbl-64",
-							"border-left-color: var(--dmo-color-opacity-black-80);",
-							" #101010a3"
-						],
-						[
-							"",
-							"dmo-border-l-ovblbl-80",
-							"border-left-color: var(--dmo-color-opacity-black-90);",
-							" #101010cc"
-						],
-						[
 							"rgb(229, 233, 236)",
 							"dmo-border-l-sk-secondary",
 							"border-left-color: var(--dmo-color-slate-100);",
 							" #e5e9ec"
-						],
-						[
-							"",
-							"dmo-border-l-ovbrbr-4",
-							"border-left-color: var(--dmo-color-brand-opacity-10);",
-							" #7302d50a"
-						],
-						[
-							"",
-							"dmo-border-l-ovbrbr-8",
-							"border-left-color: var(--dmo-color-brand-opacity-20);",
-							" #7302d514"
-						],
-						[
-							"",
-							"dmo-border-l-ovbrbr-12",
-							"border-left-color: var(--dmo-color-brand-opacity-30);",
-							" #7302d51f"
-						],
-						[
-							"",
-							"dmo-border-l-ovbrbr-16",
-							"border-left-color: var(--dmo-color-brand-opacity-40);",
-							" #7302d529"
-						],
-						[
-							"",
-							"dmo-border-l-ovbrbr-24",
-							"border-left-color: var(--dmo-color-brand-opacity-50);",
-							" #7302d53d"
-						],
-						[
-							"",
-							"dmo-border-l-ovbrbr-32",
-							"border-left-color: var(--dmo-color-brand-opacity-60);",
-							" #7302d552"
-						],
-						[
-							"",
-							"dmo-border-l-ovbrbr-40",
-							"border-left-color: var(--dmo-color-brand-opacity-70);",
-							" #7302d566"
-						],
-						[
-							"",
-							"dmo-border-l-ovbrbr-64",
-							"border-left-color: var(--dmo-color-brand-opacity-80);",
-							" #7302d5a6"
-						],
-						[
-							"",
-							"dmo-border-l-ovbrbr-80",
-							"border-left-color: var(--dmo-color-brand-opacity-90);",
-							" #7302d5cc"
 						],
 						[
 							"rgb(38, 38, 38)",
@@ -18686,109 +17228,109 @@
 							" #cbd2d9"
 						],
 						[
-							"",
+							"rgba(255, 255, 255, 0.04)",
 							"dmo-divide-ovwhwh-4",
 							"border-color: var(--dmo-color-opacity-white-10);",
 							" #ffffff0a"
 						],
 						[
-							"",
+							"rgba(255, 255, 255, 0.08)",
 							"dmo-divide-ovwhwh-8",
 							"border-color: var(--dmo-color-opacity-white-20);",
 							" #ffffff14"
 						],
 						[
-							"",
+							"rgba(255, 255, 255, 0.12)",
 							"dmo-divide-ovwhwh-12",
 							"border-color: var(--dmo-color-opacity-white-30);",
 							" #ffffff1f"
 						],
 						[
-							"",
+							"rgba(255, 255, 255, 0.16)",
 							"dmo-divide-ovwhwh-16",
 							"border-color: var(--dmo-color-opacity-white-40);",
 							" #ffffff29"
 						],
 						[
-							"",
+							"rgba(255, 255, 255, 0.24)",
 							"dmo-divide-ovwhwh-24",
 							"border-color: var(--dmo-color-opacity-white-50);",
 							" #ffffff3d"
 						],
 						[
-							"",
+							"rgba(255, 255, 255, 0.32)",
 							"dmo-divide-ovwhwh-32",
 							"border-color: var(--dmo-color-opacity-white-60);",
 							" #ffffff52"
 						],
 						[
-							"",
+							"rgba(255, 255, 255, 0.64)",
 							"dmo-divide-ovwhwh-64",
 							"border-color: var(--dmo-color-opacity-white-80);",
 							" #ffffffa3"
 						],
 						[
-							"",
+							"rgba(255, 255, 255, 0.8)",
 							"dmo-divide-ovwhwh-80",
 							"border-color: var(--dmo-color-opacity-white-90);",
 							" #ffffffcc"
 						],
 						[
-							"",
+							"rgba(255, 255, 255, 0.4)",
 							"dmo-divide-ovwhwh-40",
 							"border-color: var(--dmo-color-opacity-white-70);",
 							" #ffffff66"
 						],
 						[
-							"",
+							"rgba(16, 16, 16, 0.04)",
 							"dmo-divide-ovblbl-4",
 							"border-color: var(--dmo-color-opacity-black-10);",
 							" #1010100a"
 						],
 						[
-							"",
+							"rgba(16, 16, 16, 0.08)",
 							"dmo-divide-ovblbl-8",
 							"border-color: var(--dmo-color-opacity-black-20);",
 							" #10101014"
 						],
 						[
-							"",
+							"rgba(16, 16, 16, 0.12)",
 							"dmo-divide-ovblbl-12",
 							"border-color: var(--dmo-color-opacity-black-30);",
 							" #1010101f"
 						],
 						[
-							"",
+							"rgba(16, 16, 16, 0.16)",
 							"dmo-divide-ovblbl-16",
 							"border-color: var(--dmo-color-opacity-black-40);",
 							" #10101029"
 						],
 						[
-							"",
+							"rgba(16, 16, 16, 0.24)",
 							"dmo-divide-ovblbl-24",
 							"border-color: var(--dmo-color-opacity-black-50);",
 							" #1010103d"
 						],
 						[
-							"",
+							"rgba(16, 16, 16, 0.32)",
 							"dmo-divide-ovblbl-32",
 							"border-color: var(--dmo-color-opacity-black-60);",
 							" #10101052"
 						],
 						[
-							"",
+							"rgba(16, 16, 16, 0.4)",
 							"dmo-divide-ovblbl-40",
 							"border-color: var(--dmo-color-opacity-black-70);",
 							" #10101066"
 						],
 						[
-							"",
+							"rgba(16, 16, 16, 0.64)",
 							"dmo-divide-ovblbl-64",
 							"border-color: var(--dmo-color-opacity-black-80);",
 							" #101010a3"
 						],
 						[
-							"",
+							"rgba(16, 16, 16, 0.8)",
 							"dmo-divide-ovblbl-80",
 							"border-color: var(--dmo-color-opacity-black-90);",
 							" #101010cc"
@@ -18800,55 +17342,55 @@
 							" #e5e9ec"
 						],
 						[
-							"",
+							"rgba(115, 2, 213, 0.04)",
 							"dmo-divide-ovbrbr-4",
 							"border-color: var(--dmo-color-brand-opacity-10);",
 							" #7302d50a"
 						],
 						[
-							"",
+							"rgba(115, 2, 213, 0.08)",
 							"dmo-divide-ovbrbr-8",
 							"border-color: var(--dmo-color-brand-opacity-20);",
 							" #7302d514"
 						],
 						[
-							"",
+							"rgba(115, 2, 213, 0.12)",
 							"dmo-divide-ovbrbr-12",
 							"border-color: var(--dmo-color-brand-opacity-30);",
 							" #7302d51f"
 						],
 						[
-							"",
+							"rgba(115, 2, 213, 0.16)",
 							"dmo-divide-ovbrbr-16",
 							"border-color: var(--dmo-color-brand-opacity-40);",
 							" #7302d529"
 						],
 						[
-							"",
+							"rgba(115, 2, 213, 0.24)",
 							"dmo-divide-ovbrbr-24",
 							"border-color: var(--dmo-color-brand-opacity-50);",
 							" #7302d53d"
 						],
 						[
-							"",
+							"rgba(115, 2, 213, 0.32)",
 							"dmo-divide-ovbrbr-32",
 							"border-color: var(--dmo-color-brand-opacity-60);",
 							" #7302d552"
 						],
 						[
-							"",
+							"rgba(115, 2, 213, 0.4)",
 							"dmo-divide-ovbrbr-40",
 							"border-color: var(--dmo-color-brand-opacity-70);",
 							" #7302d566"
 						],
 						[
-							"",
+							"rgba(115, 2, 213, 0.65)",
 							"dmo-divide-ovbrbr-64",
 							"border-color: var(--dmo-color-brand-opacity-80);",
 							" #7302d5a6"
 						],
 						[
-							"",
+							"rgba(115, 2, 213, 0.8)",
 							"dmo-divide-ovbrbr-80",
 							"border-color: var(--dmo-color-brand-opacity-90);",
 							" #7302d5cc"
@@ -21221,172 +19763,10 @@
 							" #cbd2d9"
 						],
 						[
-							"",
-							"dmo-text-ovwhwh-4",
-							"color: var(--dmo-color-opacity-white-10);",
-							" #ffffff0a"
-						],
-						[
-							"",
-							"dmo-text-ovwhwh-8",
-							"color: var(--dmo-color-opacity-white-20);",
-							" #ffffff14"
-						],
-						[
-							"",
-							"dmo-text-ovwhwh-12",
-							"color: var(--dmo-color-opacity-white-30);",
-							" #ffffff1f"
-						],
-						[
-							"",
-							"dmo-text-ovwhwh-16",
-							"color: var(--dmo-color-opacity-white-40);",
-							" #ffffff29"
-						],
-						[
-							"",
-							"dmo-text-ovwhwh-24",
-							"color: var(--dmo-color-opacity-white-50);",
-							" #ffffff3d"
-						],
-						[
-							"",
-							"dmo-text-ovwhwh-32",
-							"color: var(--dmo-color-opacity-white-60);",
-							" #ffffff52"
-						],
-						[
-							"",
-							"dmo-text-ovwhwh-64",
-							"color: var(--dmo-color-opacity-white-80);",
-							" #ffffffa3"
-						],
-						[
-							"",
-							"dmo-text-ovwhwh-80",
-							"color: var(--dmo-color-opacity-white-90);",
-							" #ffffffcc"
-						],
-						[
-							"",
-							"dmo-text-ovwhwh-40",
-							"color: var(--dmo-color-opacity-white-70);",
-							" #ffffff66"
-						],
-						[
-							"",
-							"dmo-text-ovblbl-4",
-							"color: var(--dmo-color-opacity-black-10);",
-							" #1010100a"
-						],
-						[
-							"",
-							"dmo-text-ovblbl-8",
-							"color: var(--dmo-color-opacity-black-20);",
-							" #10101014"
-						],
-						[
-							"",
-							"dmo-text-ovblbl-12",
-							"color: var(--dmo-color-opacity-black-30);",
-							" #1010101f"
-						],
-						[
-							"",
-							"dmo-text-ovblbl-16",
-							"color: var(--dmo-color-opacity-black-40);",
-							" #10101029"
-						],
-						[
-							"",
-							"dmo-text-ovblbl-24",
-							"color: var(--dmo-color-opacity-black-50);",
-							" #1010103d"
-						],
-						[
-							"",
-							"dmo-text-ovblbl-32",
-							"color: var(--dmo-color-opacity-black-60);",
-							" #10101052"
-						],
-						[
-							"",
-							"dmo-text-ovblbl-40",
-							"color: var(--dmo-color-opacity-black-70);",
-							" #10101066"
-						],
-						[
-							"",
-							"dmo-text-ovblbl-64",
-							"color: var(--dmo-color-opacity-black-80);",
-							" #101010a3"
-						],
-						[
-							"",
-							"dmo-text-ovblbl-80",
-							"color: var(--dmo-color-opacity-black-90);",
-							" #101010cc"
-						],
-						[
 							"rgb(229, 233, 236)",
 							"dmo-text-sk-secondary",
 							"color: var(--dmo-color-slate-100);",
 							" #e5e9ec"
-						],
-						[
-							"",
-							"dmo-text-ovbrbr-4",
-							"color: var(--dmo-color-brand-opacity-10);",
-							" #7302d50a"
-						],
-						[
-							"",
-							"dmo-text-ovbrbr-8",
-							"color: var(--dmo-color-brand-opacity-20);",
-							" #7302d514"
-						],
-						[
-							"",
-							"dmo-text-ovbrbr-12",
-							"color: var(--dmo-color-brand-opacity-30);",
-							" #7302d51f"
-						],
-						[
-							"",
-							"dmo-text-ovbrbr-16",
-							"color: var(--dmo-color-brand-opacity-40);",
-							" #7302d529"
-						],
-						[
-							"",
-							"dmo-text-ovbrbr-24",
-							"color: var(--dmo-color-brand-opacity-50);",
-							" #7302d53d"
-						],
-						[
-							"",
-							"dmo-text-ovbrbr-32",
-							"color: var(--dmo-color-brand-opacity-60);",
-							" #7302d552"
-						],
-						[
-							"",
-							"dmo-text-ovbrbr-40",
-							"color: var(--dmo-color-brand-opacity-70);",
-							" #7302d566"
-						],
-						[
-							"",
-							"dmo-text-ovbrbr-64",
-							"color: var(--dmo-color-brand-opacity-80);",
-							" #7302d5a6"
-						],
-						[
-							"",
-							"dmo-text-ovbrbr-80",
-							"color: var(--dmo-color-brand-opacity-90);",
-							" #7302d5cc"
 						],
 						[
 							"rgb(12, 12, 12)",
@@ -22586,7 +20966,7 @@
 							" #cbd2d9"
 						],
 						[
-							"",
+							"rgba(255, 255, 255, 0.04)",
 							"dmo-bg-ovwhwh-4",
 							"background-color: var(--dmo-color-opacity-white-10);",
 							" #ffffff0a"
@@ -22808,103 +21188,103 @@
 							" #b4b4b4"
 						],
 						[
-							"",
+							"rgba(255, 255, 255, 0.08)",
 							"dmo-bg-ovwhwh-8",
 							"background-color: var(--dmo-color-opacity-white-20);",
 							" #ffffff14"
 						],
 						[
-							"",
+							"rgba(255, 255, 255, 0.12)",
 							"dmo-bg-ovwhwh-12",
 							"background-color: var(--dmo-color-opacity-white-30);",
 							" #ffffff1f"
 						],
 						[
-							"",
+							"rgba(255, 255, 255, 0.16)",
 							"dmo-bg-ovwhwh-16",
 							"background-color: var(--dmo-color-opacity-white-40);",
 							" #ffffff29"
 						],
 						[
-							"",
+							"rgba(255, 255, 255, 0.24)",
 							"dmo-bg-ovwhwh-24",
 							"background-color: var(--dmo-color-opacity-white-50);",
 							" #ffffff3d"
 						],
 						[
-							"",
+							"rgba(255, 255, 255, 0.32)",
 							"dmo-bg-ovwhwh-32",
 							"background-color: var(--dmo-color-opacity-white-60);",
 							" #ffffff52"
 						],
 						[
-							"",
+							"rgba(255, 255, 255, 0.64)",
 							"dmo-bg-ovwhwh-64",
 							"background-color: var(--dmo-color-opacity-white-80);",
 							" #ffffffa3"
 						],
 						[
-							"",
+							"rgba(255, 255, 255, 0.8)",
 							"dmo-bg-ovwhwh-80",
 							"background-color: var(--dmo-color-opacity-white-90);",
 							" #ffffffcc"
 						],
 						[
-							"",
+							"rgba(255, 255, 255, 0.4)",
 							"dmo-bg-ovwhwh-40",
 							"background-color: var(--dmo-color-opacity-white-70);",
 							" #ffffff66"
 						],
 						[
-							"",
+							"rgba(16, 16, 16, 0.04)",
 							"dmo-bg-ovblbl-4",
 							"background-color: var(--dmo-color-opacity-black-10);",
 							" #1010100a"
 						],
 						[
-							"",
+							"rgba(16, 16, 16, 0.08)",
 							"dmo-bg-ovblbl-8",
 							"background-color: var(--dmo-color-opacity-black-20);",
 							" #10101014"
 						],
 						[
-							"",
+							"rgba(16, 16, 16, 0.12)",
 							"dmo-bg-ovblbl-12",
 							"background-color: var(--dmo-color-opacity-black-30);",
 							" #1010101f"
 						],
 						[
-							"",
+							"rgba(16, 16, 16, 0.16)",
 							"dmo-bg-ovblbl-16",
 							"background-color: var(--dmo-color-opacity-black-40);",
 							" #10101029"
 						],
 						[
-							"",
+							"rgba(16, 16, 16, 0.24)",
 							"dmo-bg-ovblbl-24",
 							"background-color: var(--dmo-color-opacity-black-50);",
 							" #1010103d"
 						],
 						[
-							"",
+							"rgba(16, 16, 16, 0.32)",
 							"dmo-bg-ovblbl-32",
 							"background-color: var(--dmo-color-opacity-black-60);",
 							" #10101052"
 						],
 						[
-							"",
+							"rgba(16, 16, 16, 0.4)",
 							"dmo-bg-ovblbl-40",
 							"background-color: var(--dmo-color-opacity-black-70);",
 							" #10101066"
 						],
 						[
-							"",
+							"rgba(16, 16, 16, 0.64)",
 							"dmo-bg-ovblbl-64",
 							"background-color: var(--dmo-color-opacity-black-80);",
 							" #101010a3"
 						],
 						[
-							"",
+							"rgba(16, 16, 16, 0.8)",
 							"dmo-bg-ovblbl-80",
 							"background-color: var(--dmo-color-opacity-black-90);",
 							" #101010cc"
@@ -22988,55 +21368,55 @@
 							" #cbd2d9"
 						],
 						[
-							"",
+							"rgba(115, 2, 213, 0.04)",
 							"dmo-bg-ovbrbr-4",
 							"background-color: var(--dmo-color-brand-opacity-10);",
 							" #7302d50a"
 						],
 						[
-							"",
+							"rgba(115, 2, 213, 0.08)",
 							"dmo-bg-ovbrbr-8",
 							"background-color: var(--dmo-color-brand-opacity-20);",
 							" #7302d514"
 						],
 						[
-							"",
+							"rgba(115, 2, 213, 0.12)",
 							"dmo-bg-ovbrbr-12",
 							"background-color: var(--dmo-color-brand-opacity-30);",
 							" #7302d51f"
 						],
 						[
-							"",
+							"rgba(115, 2, 213, 0.16)",
 							"dmo-bg-ovbrbr-16",
 							"background-color: var(--dmo-color-brand-opacity-40);",
 							" #7302d529"
 						],
 						[
-							"",
+							"rgba(115, 2, 213, 0.24)",
 							"dmo-bg-ovbrbr-24",
 							"background-color: var(--dmo-color-brand-opacity-50);",
 							" #7302d53d"
 						],
 						[
-							"",
+							"rgba(115, 2, 213, 0.32)",
 							"dmo-bg-ovbrbr-32",
 							"background-color: var(--dmo-color-brand-opacity-60);",
 							" #7302d552"
 						],
 						[
-							"",
+							"rgba(115, 2, 213, 0.4)",
 							"dmo-bg-ovbrbr-40",
 							"background-color: var(--dmo-color-brand-opacity-70);",
 							" #7302d566"
 						],
 						[
-							"",
+							"rgba(115, 2, 213, 0.65)",
 							"dmo-bg-ovbrbr-64",
 							"background-color: var(--dmo-color-brand-opacity-80);",
 							" #7302d5a6"
 						],
 						[
-							"",
+							"rgba(115, 2, 213, 0.8)",
 							"dmo-bg-ovbrbr-80",
 							"background-color: var(--dmo-color-brand-opacity-90);",
 							" #7302d5cc"
@@ -23382,10 +21762,6 @@
 							""
 						],
 						[
-							"dmo-from-ovwhwh-4",
-							""
-						],
-						[
 							"dmo-from-bainse-default",
 							""
 						],
@@ -23530,74 +21906,6 @@
 							""
 						],
 						[
-							"dmo-from-ovwhwh-8",
-							""
-						],
-						[
-							"dmo-from-ovwhwh-12",
-							""
-						],
-						[
-							"dmo-from-ovwhwh-16",
-							""
-						],
-						[
-							"dmo-from-ovwhwh-24",
-							""
-						],
-						[
-							"dmo-from-ovwhwh-32",
-							""
-						],
-						[
-							"dmo-from-ovwhwh-64",
-							""
-						],
-						[
-							"dmo-from-ovwhwh-80",
-							""
-						],
-						[
-							"dmo-from-ovwhwh-40",
-							""
-						],
-						[
-							"dmo-from-ovblbl-4",
-							""
-						],
-						[
-							"dmo-from-ovblbl-8",
-							""
-						],
-						[
-							"dmo-from-ovblbl-12",
-							""
-						],
-						[
-							"dmo-from-ovblbl-16",
-							""
-						],
-						[
-							"dmo-from-ovblbl-24",
-							""
-						],
-						[
-							"dmo-from-ovblbl-32",
-							""
-						],
-						[
-							"dmo-from-ovblbl-40",
-							""
-						],
-						[
-							"dmo-from-ovblbl-64",
-							""
-						],
-						[
-							"dmo-from-ovblbl-80",
-							""
-						],
-						[
 							"dmo-from-sk-secondary",
 							""
 						],
@@ -23647,42 +21955,6 @@
 						],
 						[
 							"dmo-from-bastgh-secondary",
-							""
-						],
-						[
-							"dmo-from-ovbrbr-4",
-							""
-						],
-						[
-							"dmo-from-ovbrbr-8",
-							""
-						],
-						[
-							"dmo-from-ovbrbr-12",
-							""
-						],
-						[
-							"dmo-from-ovbrbr-16",
-							""
-						],
-						[
-							"dmo-from-ovbrbr-24",
-							""
-						],
-						[
-							"dmo-from-ovbrbr-32",
-							""
-						],
-						[
-							"dmo-from-ovbrbr-40",
-							""
-						],
-						[
-							"dmo-from-ovbrbr-64",
-							""
-						],
-						[
-							"dmo-from-ovbrbr-80",
 							""
 						],
 						[
@@ -24842,10 +23114,6 @@
 							"--tw-gradient-to: var(--dmo-color-slate-200);"
 						],
 						[
-							"dmo-to-ovwhwh-4",
-							"--tw-gradient-to: var(--dmo-color-opacity-white-10);"
-						],
-						[
 							"dmo-to-bainse-default",
 							"--tw-gradient-to: var(--dmo-color-slate-50);"
 						],
@@ -24990,74 +23258,6 @@
 							"--tw-gradient-to: var(--dmo-color-neutral-300);"
 						],
 						[
-							"dmo-to-ovwhwh-8",
-							"--tw-gradient-to: var(--dmo-color-opacity-white-20);"
-						],
-						[
-							"dmo-to-ovwhwh-12",
-							"--tw-gradient-to: var(--dmo-color-opacity-white-30);"
-						],
-						[
-							"dmo-to-ovwhwh-16",
-							"--tw-gradient-to: var(--dmo-color-opacity-white-40);"
-						],
-						[
-							"dmo-to-ovwhwh-24",
-							"--tw-gradient-to: var(--dmo-color-opacity-white-50);"
-						],
-						[
-							"dmo-to-ovwhwh-32",
-							"--tw-gradient-to: var(--dmo-color-opacity-white-60);"
-						],
-						[
-							"dmo-to-ovwhwh-64",
-							"--tw-gradient-to: var(--dmo-color-opacity-white-80);"
-						],
-						[
-							"dmo-to-ovwhwh-80",
-							"--tw-gradient-to: var(--dmo-color-opacity-white-90);"
-						],
-						[
-							"dmo-to-ovwhwh-40",
-							"--tw-gradient-to: var(--dmo-color-opacity-white-70);"
-						],
-						[
-							"dmo-to-ovblbl-4",
-							"--tw-gradient-to: var(--dmo-color-opacity-black-10);"
-						],
-						[
-							"dmo-to-ovblbl-8",
-							"--tw-gradient-to: var(--dmo-color-opacity-black-20);"
-						],
-						[
-							"dmo-to-ovblbl-12",
-							"--tw-gradient-to: var(--dmo-color-opacity-black-30);"
-						],
-						[
-							"dmo-to-ovblbl-16",
-							"--tw-gradient-to: var(--dmo-color-opacity-black-40);"
-						],
-						[
-							"dmo-to-ovblbl-24",
-							"--tw-gradient-to: var(--dmo-color-opacity-black-50);"
-						],
-						[
-							"dmo-to-ovblbl-32",
-							"--tw-gradient-to: var(--dmo-color-opacity-black-60);"
-						],
-						[
-							"dmo-to-ovblbl-40",
-							"--tw-gradient-to: var(--dmo-color-opacity-black-70);"
-						],
-						[
-							"dmo-to-ovblbl-64",
-							"--tw-gradient-to: var(--dmo-color-opacity-black-80);"
-						],
-						[
-							"dmo-to-ovblbl-80",
-							"--tw-gradient-to: var(--dmo-color-opacity-black-90);"
-						],
-						[
 							"dmo-to-sk-secondary",
 							"--tw-gradient-to: var(--dmo-color-slate-100);"
 						],
@@ -25108,42 +23308,6 @@
 						[
 							"dmo-to-bastgh-secondary",
 							"--tw-gradient-to: var(--dmo-color-slate-200);"
-						],
-						[
-							"dmo-to-ovbrbr-4",
-							"--tw-gradient-to: var(--dmo-color-brand-opacity-10);"
-						],
-						[
-							"dmo-to-ovbrbr-8",
-							"--tw-gradient-to: var(--dmo-color-brand-opacity-20);"
-						],
-						[
-							"dmo-to-ovbrbr-12",
-							"--tw-gradient-to: var(--dmo-color-brand-opacity-30);"
-						],
-						[
-							"dmo-to-ovbrbr-16",
-							"--tw-gradient-to: var(--dmo-color-brand-opacity-40);"
-						],
-						[
-							"dmo-to-ovbrbr-24",
-							"--tw-gradient-to: var(--dmo-color-brand-opacity-50);"
-						],
-						[
-							"dmo-to-ovbrbr-32",
-							"--tw-gradient-to: var(--dmo-color-brand-opacity-60);"
-						],
-						[
-							"dmo-to-ovbrbr-40",
-							"--tw-gradient-to: var(--dmo-color-brand-opacity-70);"
-						],
-						[
-							"dmo-to-ovbrbr-64",
-							"--tw-gradient-to: var(--dmo-color-brand-opacity-80);"
-						],
-						[
-							"dmo-to-ovbrbr-80",
-							"--tw-gradient-to: var(--dmo-color-brand-opacity-90);"
 						],
 						[
 							"dmo-to-bastdein-primary",
