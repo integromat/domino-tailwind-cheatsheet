@@ -40,13 +40,13 @@ const InfoTable = ({ table } : { table : string[][] }) => {
         const parts = layer.split('/')
         const highlightedName = parts
             .map((name, index) => index === parts.length - 1
-                ? <span className={'font-bold text-gray-600'}>{name}</span>
+                ? <span className={'font-bold text-gray-400 dark:text-gray-500'}>{name}</span>
                 : (<>
-                    <span className={'font-bold text-gray-600'}>{name.substr(0, 2)}</span>
+                    <span className={'font-bold text-gray-500 dark:text-gray-400'}>{name.substr(0, 2)}</span>
                     <span>{name.substr(2)}</span>/
                 </>));
 
-        return (<span className={"font-mono text-[8px] text-gray-400"}>{highlightedName}</span>);
+        return (<span className={"font-mono text-[8px] text-gray-400 dark:text-gray-500"}>{highlightedName}</span>);
     }
 
     return (
