@@ -34,7 +34,7 @@ const Subcategory = ({ subcategory,shouldHide }: { subcategory : SubcategoryType
             >
                 <h1 className="flex-1 text-sm tracking-wider">{subcategory.title}</h1>
                 <a
-                    className="px-2 py-1 text-xs font-bold text-white uppercase transition-colors duration-300 transform bg-gray-400 rounded-md dark:bg-gray-700 hover:bg-primary dark:hover:bg-primary"
+                    className="px-2 py-1 text-xs font-bold text-white uppercase transition-colors duration-300 transform bg-gray-400 rounded-md dark:bg-gray-700 hover:bg-purple-700"
                     href={subcategory.docs}
                     target="_blank"
                     rel="noopener noreferrer"
