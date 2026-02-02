@@ -7,7 +7,7 @@ import SearchBar from '../components/searchBar';
 import Categories from '../components/categories';
 import Footer from '../components/footer';
 import Tagline from '../components/tagline';
-import { LayersContext } from '../utils/layers.context';
+import { SemanticLayerPrefixContext, LayersContext } from '../utils/layers.context';
 
 interface CheatSheetData { layers: any, data: Category[] }
 
@@ -17,13 +17,17 @@ const Home =  () => {
     const [cheatsheet, setCheatsheet] = useState<CheatSheetData['data']>(
         json.data
     );
+    const [semanticLayerPrefix, setSemanticLayerPrefix] = useState<string>('dmo-');
 
     useEffect(() => {
         const el = document.querySelector('tw-cheatsheet');
+        setSemanticLayerPrefix(el?.getAttribute('data-semantic-layer-prefix') || 'dmo-');
+
         const source = el?.getAttribute('data-source');
         if (!source) {
             throw new Error('[data-source] is missing on "tw-cheatsheet" element');
         }
+
         fetch(source)
             .then((res) => res.json())
             .then((data) => {
@@ -87,12 +91,14 @@ const Home =  () => {
 
     return (
         <LayersContext.Provider value={json.layers}>
-            <main className={"tracking-wide font-roboto min-h-screen grid content-start"}>
-                <SearchBar searchFilter={search} />
-                <Tagline />
-                <Categories cheatsheet={cheatsheet} />
-                <Footer />
-            </main>
+            <SemanticLayerPrefixContext.Provider value={semanticLayerPrefix}>
+                <main className={"tracking-wide font-roboto min-h-screen grid content-start"}>
+                    <SearchBar searchFilter={search} />
+                    <Tagline />
+                    <Categories cheatsheet={cheatsheet} />
+                    <Footer />
+                </main>
+            </SemanticLayerPrefixContext.Provider>
         </LayersContext.Provider>
     );
 }
