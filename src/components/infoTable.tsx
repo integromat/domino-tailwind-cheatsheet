@@ -2,12 +2,13 @@ import React, { useContext, useState } from 'react';
 import classNames from "classnames";
 import { copyTextToClipboard } from '../utils/copyTextToClipboard';
 import { Toast } from "./toast";
-import { LayersContext } from '../utils/layers.context';
+import { LayersContext, SemanticLayerPrefixContext } from '../utils/layers.context';
 
 const InfoTable = ({ table } : { table : string[][] }) => {
     const [showToast, setShowToast] = useState(false);
     const [toastText, setToastText] = useState("");
     const layers = useContext(LayersContext);
+    const semanticLayerPrefix = useContext(SemanticLayerPrefixContext);
 
     const parseText = (text: string): any => {
         if(/^rgba?\(/.test(text) || text === "transparent")
@@ -32,7 +33,7 @@ const InfoTable = ({ table } : { table : string[][] }) => {
     }
 
     function semanticLayerName(td: string) {
-        const possibleLayerName = td.replace(/dmo-.+?-/, '');
+        const possibleLayerName = td.replace(new RegExp(semanticLayerPrefix + '.+?-'), '');
         const layer = Object.keys(layers).find(layerName => layers[layerName].includes(possibleLayerName));
         if (!layer) {
             return null;
