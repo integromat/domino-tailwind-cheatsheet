@@ -33,7 +33,7 @@ const InfoTable = ({ table } : { table : string[][] }) => {
     }
 
     function semanticLayerName(td: string) {
-        const possibleLayerName = td.replace(new RegExp(semanticLayerPrefix + '.+?-')), '');
+        const possibleLayerName = td.replace(new RegExp(semanticLayerPrefix + '.+?-'), '');
         const layer = Object.keys(layers).find(layerName => layers[layerName].includes(possibleLayerName));
         if (!layer) {
             return null;

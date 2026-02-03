@@ -1,6 +1,6 @@
 {
   "name": "@integromat/tailwind-config-viewer",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "private": false,
   "author": "Vojtech Malek",
   "description": "Tailwind cheatsheet as custom element",
