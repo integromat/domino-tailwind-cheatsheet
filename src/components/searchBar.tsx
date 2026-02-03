@@ -9,7 +9,6 @@ function clearSearch() {
 }
 
 const SearchBar = ({ searchFilter }: { searchFilter : ( text:string ) => void }) => {
-    const tailwindVersion = "3.0.24";
     const searchInputRef = useRef<HTMLInputElement>(null);
 
     const handleFocus = (e: KeyboardEvent) => {
